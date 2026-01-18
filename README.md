@@ -194,7 +194,7 @@ The number of directors shall be not less than three or more than forty with the
 
 Should the number of members ever exceed forty, the members shall immediately meet to amend the operating agreement to require that the board be elected from among the members.
 
-**Meetings of the members in their capacity as the board of directors shall be governed by this Article IV. Meetings of the members in their capacity as members shall be governed by Article III.**
+**Meetings of the members in their capacity as the board of directors shall be governed by this [Article IV](#article-iv-directors). Meetings of the members in their capacity as members shall be governed by Article III.**
 
 ### B. Terms of Office
 
@@ -283,7 +283,13 @@ The board may, by resolution adopted by a majority of the number of directors th
 
 ## ARTICLE VI: PROCESS OF DECISION MAKING FOR ALL MEETINGS
 
-Matters will be discussed with the goal of seeking decision-making by consensus. If it becomes apparent that consensus cannot be reached on any matter, the members will vote on whether the issue should be tabled for future discussion and decision. If a decision cannot be made by consensus, the members shall vote on the matter, with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
+Matters will be discussed with the goal of seeking decision-making by consensus. If it becomes apparent that consensus cannot be reached on any matter, the members will vote on whether the issue should be tabled for future discussion and decision. If a decision cannot be made by consensus, the members shall vote on the matter, 
+    - [ ] with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
+    - [ ] When the company has 10 or fewer employee-owners, new employee-owners must receive unanimous approval. This provision shall automatically sunset on January 20, 2029  [i.e., 3 years from adoption] unless renewed by unanimous vote.
+    - [ ] When the company has 11-25 employee-owners, new employee-owners must receive approval from at least 85% of existing employee-owners.
+    - [ ] When the company has 26 or more employee-owners, new employee-owners must receive approval from at least 75% of existing employee-owners.
+    - [ ] unanimous minus one
+
 
 ## ARTICLE VII: OFFICERS
 
