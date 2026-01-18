@@ -2,14 +2,14 @@
 ### OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
 
 ## Table of Contents
-- [Article I: Purposes](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#article-i-purposes)
-- [Article II: Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#article-ii-members)
-  - [A. Classification of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#a-classification-of-members)
-  - [B. Membership Qualifications](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#b-membership-qualifications)
-  - [C. Acceptance of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#c-acceptance-of-members)
-  - [D. Membership Resignation](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#d-membership-resignation)
-  - [E. Removal of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#e-removal-of-members)
-- [Article III: Member Meetings](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/tree/main#article-iii-member-meetings)
+- [Article I: Purposes](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-i-purposes)
+- [Article II: Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-ii-members)
+  - [A. Classification of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#a-classification-of-members)
+  - [B. Membership Qualifications](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#b-membership-qualifications)
+  - [C. Acceptance of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#c-acceptance-of-members)
+  - [D. Membership Resignation](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#d-membership-resignation)
+  - [E. Removal of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#e-removal-of-members)
+- [Article III: Member Meetings](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-iii-member-meetings)
 - [Article IV: Directors](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-iv-directors)
 - [Article V: Committees](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-v-committees)
 - [Article VI: Process of Decision Making For All Meetings](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-vi-process-of-decision-making-for-all-meetings)
@@ -361,7 +361,7 @@ The corporation shall aim to pay out in cash to the members all funds credited t
 
 ### H. Unclaimed Equity Interests
 
-Any proprietary interest in the corporation held by a member that would otherwise escheat to the State of California as unclaimed personal property shall instead become the property of the corporation if the corporation gives at least 60 days prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the corporation’s records, and (2) by publication in a newspaper of general circulation in the county in which the corporation has its principal office.  No property or funds shall become the property of the corporation under this section if written notice objecting to the transfer is received by the corporation from the affected member prior to the date of the proposed transfer.
+Any proprietary interest in the corporation held by a member that would otherwise escheat to the State of Vermont as unclaimed personal property shall instead become the property of the corporation if the corporation gives at least 60 days prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the corporation’s records, and (2) by publication in a newspaper of general circulation in the county in which the corporation has its principal office.  No property or funds shall become the property of the corporation under this section if written notice objecting to the transfer is received by the corporation from the affected member prior to the date of the proposed transfer.
 
 ### I. Dissolution Distributions
 
