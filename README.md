@@ -57,9 +57,14 @@ The company is democratically controlled and is not organized to make a profit f
 The company shall have one (1) class of members.
 
 ### B. Membership Qualifications
-- Be a resident of the United States;
-- Work six months for the company (The candidacy period);
-- Be voted in, as set forth in Section III(C), by the existing members following the candidacy period; and
+- Be a resident of the United States; **do we need this?**
+- Work
+    - [ ] six months (1040 hours) for the company (The candidacy period);
+    - [ ] twelve months (2080 hours) for the company (The candidacy period);
+    - [ ] eighteen months (3120 hours) for the company (The candidacy period);
+    - [ ] twenty-four months (4160 hours) for the company (The candidacy period);
+    - [ ] thirty-six months (6240 hours) for the company (The candidacy period);
+- Be voted in, as set forth in [Article III(B)](#b-member-voting), by the existing members following the candidacy period; and
 - Receiving a copy of the company’s Disclosure Statement, operating agreement, and a receipt 
 
 ### C. Acceptance of Members
