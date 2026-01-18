@@ -325,7 +325,7 @@ The “Collective Account” shall be Surplus, Profit, and reserves that are ret
 
 “Patronage” shall be defined as hours worked by each member for the corporation. 
 
-“Patronage Dividends” shall have the definition contained in Internal Revenue Code Section 1388(a) (dividends paid to members based on Patronage). 
+“Patronage Dividends” shall have the definition contained in [Internal Revenue Code Section 1388(a)](https://www.law.cornell.edu/uscode/text/26/1388) (dividends paid to members based on Patronage). 
 
 “Member Account” shall be defined as each member’s capital account in the corporation (initial capital contribution plus written notices of allocation minus Distributions minus Losses plus/minus any other item that affects the balance in the member’s capital account). 
 
@@ -349,7 +349,7 @@ Patronage Dividends may be by qualified or non-qualified written notices of allo
 
 ### E. Member’s Covenant to Declare Income for Tax Purposes
 
-Each member shall take into account on his or her income tax return the amount of any Patronage Dividends which are made in qualified written notices of allocation (as defined in 26 U.S.C. Section 1388) at their stated dollar amounts in the manner provided in [26 U.S.C. Section 1385(a)](https://www.law.cornell.edu/uscode/text/26/1385) in the taxable year in which such written notices of allocation are received by the member.
+Each member shall take into account on his or her income tax return the amount of any Patronage Dividends which are made in qualified written notices of allocation (as defined in [26 U.S.C. Section 1388)](https://www.law.cornell.edu/uscode/text/26/1388) at their stated dollar amounts in the manner provided in [26 U.S.C. Section 1385(a)](https://www.law.cornell.edu/uscode/text/26/1385) in the taxable year in which such written notices of allocation are received by the member.
 
 ### F. Payment Rights Regarding Member Accounts
 
