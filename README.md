@@ -1,25 +1,25 @@
-# BYLAWS
-### OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
+# BYLAWS of
+### GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
 
 ## Table of Contents
-- [Article I: Purposes](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-i-purposes)
-- [Article II: Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-ii-members)
-  - [A. Classification of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#a-classification-of-members)
-  - [B. Membership Qualifications](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#b-membership-qualifications)
-  - [C. Acceptance of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#c-acceptance-of-members)
-  - [D. Membership Resignation](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#d-membership-resignation)
-  - [E. Removal of Members](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#e-removal-of-members)
-- [Article III: Member Meetings](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-iii-member-meetings)
-- [Article IV: Directors](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-iv-directors)
-- [Article V: Committees](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-v-committees)
-- [Article VI: Process of Decision Making For All Meetings](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-vi-process-of-decision-making-for-all-meetings)
-- [Article VII: Officers](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-vii-officers)
-- [Article VIII: Allocations and Distributions](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-viii-allocations-and-distributions)
-- [Article IX: Checks and Contracts](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-ix-checks-and-contracts)
-- [Article X: Transfer of Memebership](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-x-transfer-of-memberships)
-- [Article XI: Records](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-xi-records)
-- [Article XII: Indemnification](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-xii-indemnification)
-- [Article XIII: Operating Agreement Amendment](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS#article-xiii-operating-agreement-amendment)
+- [Article I: Purposes](#article-i-purposes)
+- [Article II: Members](#article-ii-members)
+  - [A. Classification of Members](#a-classification-of-members)
+  - [B. Membership Qualifications](#b-membership-qualifications)
+  - [C. Acceptance of Members](#c-acceptance-of-members)
+  - [D. Membership Resignation](#d-membership-resignation)
+  - [E. Removal of Members](#e-removal-of-members)
+- [Article III: Member Meetings](#article-iii-member-meetings)
+- [Article IV: Directors](#article-iv-directors)
+- [Article V: Committees](#article-v-committees)
+- [Article VI: Process of Decision Making For All Meetings](#article-vi-process-of-decision-making-for-all-meetings)
+- [Article VII: Officers](#article-vii-officers)
+- [Article VIII: Allocations and Distributions](#article-viii-allocations-and-distributions)
+- [Article IX: Checks and Contracts](#article-ix-checks-and-contracts)
+- [Article X: Transfer of Memebership](#article-x-transfer-of-memberships)
+- [Article XI: Records](#article-xi-records)
+- [Article XII: Indemnification](#article-xii-indemnification)
+- [Article XIII: Operating Agreement Amendment](#article-xiii-operating-agreement-amendment)
 
 
 ## ARTICLE I: PURPOSES
@@ -38,12 +38,12 @@ The company shall have one (1) class of members.
 - Receiving a copy of the company’s Disclosure Statement, operating agreement, and a receipt 
 
 ### C. Acceptance of Members
-The members shall decide by the modified consensus process described in Article VI whether to accept an application for membership.  If an application is not accepted, the applicant’s employment shall be immediately terminated, unless the members, by the modified consensus process, choose to specify a further Candidacy Period to be followed by a second decision by the members whether to accept the application.  Upon acceptance of an application, the applicant shall immediately become a member.
+The members shall decide by the modified consensus process described in Article VI whether to accept an application for membership. If an application is not accepted, the applicant’s employment shall be immediately terminated, unless the members, by the modified consensus process, choose to specify a further Candidacy Period to be followed by a second decision by the members whether to accept the application. Upon acceptance of an application, the applicant shall immediately become a member.
 
 In the case of an application by a former member, the company may waive the Candidacy Period and accept back the former member immediately by the affirmative vote of all the members.
 
 ### D. Membership Resignation
-A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation.  The resignation shall become effective immediately without any action on the part of the company.  An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company.  Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.
+A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.
 
 ### E. Removal of Members
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
@@ -52,11 +52,11 @@ A member may for any lawful reason be expelled from the company by a vote of sev
 
 The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
-Any notice required under this section may be given by any method reasonably calculated to provide actual notice.  Any notice given by mail must be given by first-class or registered mail sent to the last address of the members shown on the company’s records.
+Any notice required under this section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the members shown on the company’s records.
 
 A member who is expelled or suspended or whose membership is terminated shall be liable for any charges incurred, dues, assessments, or fees incurred before expulsion, suspension, or termination or arising from contract or otherwise.
 
-The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made.  The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.
+The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.
 
 ## ARTICLE III: MEMBER MEETINGS
 
@@ -81,6 +81,8 @@ The company may direct a member whose expulsion is being considered to refrain f
 
 The voting power of the members shall be equal.
 
+Members are disqualified from voting on matters for which there is a conflict of interest. Matters directly pertaining to a member’s spouse/partner or close relative are considered to be de facto conflicts of interest; no member may vote on matters concerning their spouse/partner or close relative. Close relatives include: grandparents, parents, children, grandchildren, aunts, uncles, nieces, nephews, and first cousins, as well as any legal and/or common-law “in-law” variants of the above.
+
 Whenever members are disqualified from voting on any matter, they shall not be counted for the determination of a quorum or the required vote to approve an action.
 
 There shall be no voting by proxy.
@@ -91,17 +93,17 @@ Unless otherwise specified, all votes shall be conducted using the procedures in
 
 ### C. Annual Meeting
 
-An annual meeting of members shall be held on the first Thursday in November at 11:00 a.m. Pacific Time over video call.  If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.  
+An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day. 
 
-In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three).  Any other proper business may be transacted at the meeting.
+In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three). Any other proper business may be transacted at the meeting.
 
 ### D. Special Meetings
 
-Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members.  The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the company addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request.  
+Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members. The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the company addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request. 
 
 ### E. Participation by Electronic Communications
 
-If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation.  
+If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation. 
 
 Any request by the company to a member for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member, the meeting shall be held at a physical location.
 
@@ -109,7 +111,7 @@ Any request by the company to a member for consent to conduct a meeting of membe
 
 Whenever the members are required to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each member who, on the record date for notice of the meeting, is entitled to vote thereat; provided, however, that if notice is given by mail, and the notice is not mailed by first-class, registered, or certified mail, that notice shall be given not less than 20 days before the meeting.
 
-The notice shall state the place, date, and time of the meeting, the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in that meeting, and (1) in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (2) in the case of the regular meeting, those matters which the board, at the time the notice is given, intends to present for action by the members.  The notice of any meeting at which directors are to be elected shall include the names of all those who are nominees at the time the notice is given to members.
+The notice shall state the place, date, and time of the meeting, the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in that meeting, and (1) in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (2) in the case of the regular meeting, those matters which the board, at the time the notice is given, intends to present for action by the members. The notice of any meeting at which directors are to be elected shall include the names of all those who are nominees at the time the notice is given to members.
 
 Notwithstanding the foregoing, any of the following decisions, other than by unanimous approval by those entitled to vote, shall be valid only if the general nature of the proposal was stated in the notice of meeting or in any written waiver of notice:
 
@@ -130,7 +132,7 @@ Notice shall not be given by electronic transmission by the corporation under th
 
 ### G. Waiver of Notice
 
-The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing.  All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.  
+The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting. 
 
 Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting. 
 
@@ -138,11 +140,11 @@ Neither the business to be transacted at nor the purpose of any regular or speci
 
 ### H. Adjourned Meetings
 
-When a members’ meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place thereof (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which the adjournment is taken.  At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting.  If the adjournment is for more than 45 days or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.
+When a members’ meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place thereof (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting. If the adjournment is for more than 45 days or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.
 
 ### I. Quorum
 
-A majority of the members shall constitute a quorum at a meeting of members.  If a quorum is present, the affirmative vote of the majority of the members entitled to vote shall be the act of the members unless the vote of a greater number is required by the articles or operating agreement.
+A majority of the members shall constitute a quorum at a meeting of members. If a quorum is present, the affirmative vote of the majority of the members entitled to vote shall be the act of the members unless the vote of a greater number is required by the articles or operating agreement.
 
 The members present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment notwithstanding the withdrawal of enough members to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the members required to constitute a quorum or, if required by the articles or the operating agreement, the vote of the greater number so required.
 
@@ -150,7 +152,7 @@ In the absence of a quorum, any meeting of members may be adjourned from time to
 
 ### J. Record Date
 
-The board may fix, in advance, a date as the record date for the purpose of determining the members entitled to vote at a meeting of members.  Such record date shall not be more than 60 days before the date of the meeting.  Such record date shall also apply in the case of an adjournment of the meeting unless the board fixes a new record date for the adjourned meeting.  If no record date is fixed, members on the day of the meeting who are otherwise eligible to vote are entitled to vote at the meeting of members or, in the case of an adjourned meeting, members on the day of the adjourned meeting who are otherwise eligible to vote are entitled to vote at the adjourned meeting of members.
+The board may fix, in advance, a date as the record date for the purpose of determining the members entitled to vote at a meeting of members. Such record date shall not be more than 60 days before the date of the meeting. Such record date shall also apply in the case of an adjournment of the meeting unless the board fixes a new record date for the adjourned meeting. If no record date is fixed, members on the day of the meeting who are otherwise eligible to vote are entitled to vote at the meeting of members or, in the case of an adjourned meeting, members on the day of the adjourned meeting who are otherwise eligible to vote are entitled to vote at the adjourned meeting of members.
 
 ## ARTICLE IV: DIRECTORS
 
@@ -158,11 +160,11 @@ The board may fix, in advance, a date as the record date for the purpose of dete
 
 All members of the corporation shall serve on the board of directors and no person other than the members of the corporation shall serve on the board of directors (except as provided in the following paragraph).
 
-The number of directors shall be not less than three or more than forty with the exact number of directors to be fixed, within the limits specified, by a vote of the members.  If there are fewer than three members, the member(s) shall elect the minimum required number of directors to bring the total number of directors to three.
+The number of directors shall be not less than three or more than forty with the exact number of directors to be fixed, within the limits specified, by a vote of the members. If there are fewer than three members, the member(s) shall elect the minimum required number of directors to bring the total number of directors to three.
 
 Should the number of members ever exceed forty, the members shall immediately meet to amend the operating agreement to require that the board be elected from among the members.
 
-**Meetings of the members in their capacity as the board of directors shall be governed by this Article IV.  Meetings of the members in their capacity as members shall be governed by Article III.**
+**Meetings of the members in their capacity as the board of directors shall be governed by this Article IV. Meetings of the members in their capacity as members shall be governed by Article III.**
 
 ### B. Terms of Office
 
@@ -178,9 +180,9 @@ The vote of a three fourths majority of the directors present at a duly called a
 
 ### D. Notice of Board Meetings
 
-Regular meetings will be held the first Thursday of every month at 11:00 a.m. at the principal office of the corporation.  If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next business day.  
+Regular meetings will be held the first Thursday of every month at 11:00 AM at the principal office of the corporation. If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next business day. 
 
-Special meetings of the board shall be held upon four days’ notice by first-class mail or 48 hours’ notice delivered personally, by telephone, including a voice messaging system, or by electronic transmission by the corporation.  A notice, or waiver of notice, need not specify the purpose of any regular or special meeting of the board.
+Special meetings of the board shall be held upon four days’ notice by first-class mail or 48 hours’ notice delivered personally, by telephone, including a voice messaging system, or by electronic transmission by the corporation. A notice, or waiver of notice, need not specify the purpose of any regular or special meeting of the board.
 
 ### E. Waiver of Notice 
 
@@ -190,7 +192,7 @@ All waivers, consents, and approvals shall be filed with the corporate records o
 
 ### F. Participation by Electronic Transmission
 
-Members of the board may participate in a meeting through use of conference telephone, electronic video screen communication, or electronic transmission by and to the corporation.  Participation in a meeting through use of conference telephone or electronic video screen communication pursuant to this section constitutes presence in person at that meeting as long as all members participating in the meeting are able to hear one another.
+Members of the board may participate in a meeting through use of conference telephone, electronic video screen communication, or electronic transmission by and to the corporation. Participation in a meeting through use of conference telephone or electronic video screen communication pursuant to this section constitutes presence in person at that meeting as long as all members participating in the meeting are able to hear one another.
 
 Participation in a meeting through use of electronic transmission by and to the corporation, other than conference telephone and electronic video screen communication pursuant to this subdivision constitutes presence in person at that meeting if both of the following apply:
 
@@ -205,17 +207,17 @@ A meeting at which a quorum is initially present may continue to transact busine
 
 ### H. Adjournment
 
-A majority of the directors present, whether or not a quorum is present, may adjourn any meeting to another time and place.  If the meeting is adjourned for more than 24 hours, notice of any adjournment to another time or place shall be given prior to the time of the adjourned meeting to the directors who were not present at the time of the adjournment.
+A majority of the directors present, whether or not a quorum is present, may adjourn any meeting to another time and place. If the meeting is adjourned for more than 24 hours, notice of any adjournment to another time or place shall be given prior to the time of the adjourned meeting to the directors who were not present at the time of the adjournment.
 
 ### I. Action Without a Meeting
 
-Any action required or permitted to be taken by the board may be taken without a meeting, if all members of the board shall individually or collectively consent in writing to such action.  Such written consent or consents shall be filed with the minutes of the proceedings of the board.
+Any action required or permitted to be taken by the board may be taken without a meeting, if all members of the board shall individually or collectively consent in writing to such action. Such written consent or consents shall be filed with the minutes of the proceedings of the board.
 
 The action by written consent shall have the same force and effect as a unanimous vote of the directors.
 
 ### J. Board Vacancies
 
-Given that all members constitute the board, vacancies will not occur on the board.  Therefore, this section applies only if the provision requiring that all members constitute the board is amended to provide for election of directors (or if there are fewer than three members).
+Given that all members constitute the board, vacancies will not occur on the board. Therefore, this section applies only if the provision requiring that all members constitute the board is amended to provide for election of directors (or if there are fewer than three members).
 
 “Vacancy” when used with respect to the board means any authorized position of director which is not then filled, whether the vacancy is caused by death, resignation, removal, change in the number of directors authorized in the articles or operating agreement, or otherwise.
 
@@ -229,17 +231,17 @@ The members may elect a director at any time to fill any vacancy not filled by t
 
 ### K. Resignation
 
-So long as all members constitute the board, the only way that a director may resign is by ceasing to be a member (or if there are fewer than three members).  Should the provision by which all members constitute the board be amended, any director may resign effective upon giving written notice to the president, the secretary, or the board of directors of the corporation, unless the notice specifies a later time for the effectiveness of such resignation.  If the resignation is effective at a future time, a successor may be elected to take office when the resignation becomes effective.
+So long as all members constitute the board, the only way that a director may resign is by ceasing to be a member (or if there are fewer than three members). Should the provision by which all members constitute the board be amended, any director may resign effective upon giving written notice to the president, the secretary, or the board of directors of the corporation, unless the notice specifies a later time for the effectiveness of such resignation. If the resignation is effective at a future time, a successor may be elected to take office when the resignation becomes effective.
 
 ### L. Removal
 
-So long as all members constitute the board, directors may not be removed except if they cease to be members.  Should the provision by which all members constitute the board be amended, any or all directors may be removed without cause by the members.
+So long as all members constitute the board, directors may not be removed except if they cease to be members. Should the provision by which all members constitute the board be amended, any or all directors may be removed without cause by the members.
 
 Any reduction of the authorized number of directors does not remove any director prior to the expiration of the director’s term of office.
 
 ## ARTICLE V: COMMITTEES
 
-The board may, by resolution adopted by a majority of the number of directors then in office, provided that a quorum is present, create one or more committees, each consisting of two or more directors, to serve at the pleasure of the board.  Appointments to such committees shall be by a majority vote of the directors then in office.  The board may appoint one or more directors as alternate members of any committee, who may replace any absent member at any meeting of the committee.  Any such committee, to the extent provided in the resolution of the board or in the operating agreement, shall have all the authority of the board, except with respect to:
+The board may, by resolution adopted by a majority of the number of directors then in office, provided that a quorum is present, create one or more committees, each consisting of two or more directors, to serve at the pleasure of the board. Appointments to such committees shall be by a majority vote of the directors then in office. The board may appoint one or more directors as alternate members of any committee, who may replace any absent member at any meeting of the committee. Any such committee, to the extent provided in the resolution of the board or in the operating agreement, shall have all the authority of the board, except with respect to:
 
 1. The approval of any action for which approval of the members is required;
 2. The filling of vacancies on the board or in any committee which has the authority of the board;
@@ -251,25 +253,25 @@ The board may, by resolution adopted by a majority of the number of directors th
 
 ## ARTICLE VI: PROCESS OF DECISION MAKING FOR ALL MEETINGS
 
-Matters will be discussed with the goal of seeking decision-making by consensus.  If it becomes apparent that consensus cannot be reached on any matter, the members will vote on whether the issue should be tabled for future discussion and decision.  If a decision cannot be made by consensus, the members shall vote on the matter, with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
+Matters will be discussed with the goal of seeking decision-making by consensus. If it becomes apparent that consensus cannot be reached on any matter, the members will vote on whether the issue should be tabled for future discussion and decision. If a decision cannot be made by consensus, the members shall vote on the matter, with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
 
 ## ARTICLE VII: OFFICERS
 
 ### A. Offices
 
-The corporation shall have a president, a secretary, a chief financial officer, and such other officers with such titles and duties as shall be determined by the board.  
+The corporation shall have a president, a secretary, a chief financial officer, and such other officers with such titles and duties as shall be determined by the board. 
 
 ### B. Qualifications
 
-Any number of offices may be held by the same person.  
+Any number of offices may be held by the same person. 
 
 The officers of the corporation shall be elected from among the board members.
 
 ### C. Election of Officers
 
-The officers shall be elected by the board for one year terms at the annual meeting by written ballot.  The candidate receiving the highest number of votes for an office shall be elected.
+The officers shall be elected by the board for one year terms at the annual meeting by written ballot. The candidate receiving the highest number of votes for an office shall be elected.
 
-Officers may be removed by a vote of the board.  
+Officers may be removed by a vote of the board. 
 
 ### D. Resignation
 
@@ -285,11 +287,11 @@ The president shall preside at board and membership meetings and will exercise a
 
 ### G. Duties of Secretary
 
-The secretary will keep, or cause to be kept, at the principal executive office or such other place as designated by the board of directors, a book of minutes of all meetings and actions of the members, of the board of directors, and of committees of the board.  
+The secretary will keep, or cause to be kept, at the principal executive office or such other place as designated by the board of directors, a book of minutes of all meetings and actions of the members, of the board of directors, and of committees of the board. 
 
 The secretary will keep, or cause to be kept, at the principal executive office, the records of the corporation required to be kept as described in Article XI.
 
-The secretary will give notice, or cause notice to be given, of all members’ meetings, board meetings, and meetings of committees of the board for which notice is required by statute or by the operating agreement.  If the secretary or other person authorized by the secretary to give notice fails to act, notice of any meeting may be given by any other officer of the corporation.
+The secretary will give notice, or cause notice to be given, of all members’ meetings, board meetings, and meetings of committees of the board for which notice is required by statute or by the operating agreement. If the secretary or other person authorized by the secretary to give notice fails to act, notice of any meeting may be given by any other officer of the corporation.
 
 The secretary will have such other powers and perform other duties as prescribed by the board of directors or by the operating agreement.
 
@@ -309,19 +311,19 @@ The fiscal year of the corporation shall end on the last day of December of each
 
 ### B. Definitions
 
-“Surplus” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to member labor.  
+“Surplus” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to member labor. 
 
-“Profit” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to non-member labor.  
+“Profit” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to non-member labor. 
 
 “Loss” shall be defined as the excess of Expenses over revenues for a fiscal year.
 
-Surplus, Profit, and Loss shall be determined on a tax basis.  Surplus and Profit shall not include cash contributions by members to capital.
+Surplus, Profit, and Loss shall be determined on a tax basis. Surplus and Profit shall not include cash contributions by members to capital.
 
-“Expenses” shall include Distributions paid pursuant to Section IX(K), payments of any interest and principal on any debts of the corporation, and reasonable reserves as determined by the board of directors.  
+“Expenses” shall include Distributions paid pursuant to Section IX(K), payments of any interest and principal on any debts of the corporation, and reasonable reserves as determined by the board of directors. 
 
-The “Collective Account” shall be Surplus, Profit, and reserves that are retained in the corporation and not distributed to members.  
+The “Collective Account” shall be Surplus, Profit, and reserves that are retained in the corporation and not distributed to members. 
 
-“Patronage” shall be defined as hours worked by each member for the corporation.  
+“Patronage” shall be defined as hours worked by each member for the corporation. 
 
 “Patronage Dividends” shall have the definition contained in Internal Revenue Code Section 1388(a) (dividends paid to members based on Patronage). 
 
@@ -333,7 +335,7 @@ The “Collective Account” shall be Surplus, Profit, and reserves that are ret
 
 Any Profit shall be credited to the Collective Account.
 
-Any Surplus shall be credited to the Collective Account as necessary to bring the year’s contribution to the Collective Account up to twenty-five percent (25%) of the year’s combined Profit/Surplus.  All other Surplus shall be paid as Patronage Dividends in direct proportion to Patronage during the fiscal year.
+Any Surplus shall be credited to the Collective Account as necessary to bring the year’s contribution to the Collective Account up to twenty-five percent (25%) of the year’s combined Profit/Surplus. All other Surplus shall be paid as Patronage Dividends in direct proportion to Patronage during the fiscal year.
 
 Any Loss shall be allocated seventy-five percent (75%) to Member Accounts in direct proportion to Patronage during the fiscal year and twenty-five (25%) to the Collective Account, with the exception of Losses occurring and/or carried over from the corporation’s first two fiscal years which shall be allocated 100% to the Collective Account.
 
@@ -341,7 +343,7 @@ The percentages referred to in this section can be changed for a coming fiscal y
 
 ### D. Patronage Dividends
 
-Patronage Dividends shall be made fifty percent (50%) in cash and fifty percent (50%) to each individual Member Account as a written notice of allocation, unless different proportions are approved by the board within eight-and-a-half months of the fiscal year’s close – however, at least twenty percent (20%) must be distributed in cash.  
+Patronage Dividends shall be made fifty percent (50%) in cash and fifty percent (50%) to each individual Member Account as a written notice of allocation, unless different proportions are approved by the board within eight-and-a-half months of the fiscal year’s close – however, at least twenty percent (20%) must be distributed in cash. 
 
 Patronage Dividends may be by qualified or non-qualified written notices of allocation or a combination of the two.
 
@@ -351,21 +353,21 @@ Each member shall take into account on his or her income tax return the amount o
 
 ### F. Payment Rights Regarding Member Accounts
 
-When a member’s membership in the corporation is terminated for any reason, the amount in her or his Member Account will automatically be redeemed in exchange for debt.  The corporation shall repay the debt within five years of the membership termination, with interest accruing at the discount rate – as set by the Federal Reserve Bank of San Francisco – plus two percent (2%), on the amount outstanding at the end of each fiscal year.  
+When a member’s membership in the corporation is terminated for any reason, the amount in her or his Member Account will automatically be redeemed in exchange for debt. The corporation shall repay the debt within five years of the membership termination, with interest accruing at the discount rate – as set by the Federal Reserve Bank of New York – plus two percent (2%), on the amount outstanding at the end of each fiscal year. 
 
 The corporation, in settling a Member Account, shall have the right to set off any and all indebtedness of the former member to the corporation.
 
 ### G. Periodic Redemption of Member Accounts
 
-The corporation shall aim to pay out in cash to the members all funds credited to their Member Accounts within three (3) years of the date they were first credited.  As a general rule, written notices of allocation credited to Member Accounts (including notices now converted to debt) will be paid out in the order in which they are credited, with the oldest paid out first; however, the board can decide to accelerate the repayment of debt owed to former members on a case by case basis.  If the corporation does not have sufficient funds to pay out all funds credited to Member Accounts for a given fiscal year, then funds will be paid out in proportion to the balance in the Member Accounts.
+The corporation shall aim to pay out in cash to the members all funds credited to their Member Accounts within three (3) years of the date they were first credited. As a general rule, written notices of allocation credited to Member Accounts (including notices now converted to debt) will be paid out in the order in which they are credited, with the oldest paid out first; however, the board can decide to accelerate the repayment of debt owed to former members on a case by case basis. If the corporation does not have sufficient funds to pay out all funds credited to Member Accounts for a given fiscal year, then funds will be paid out in proportion to the balance in the Member Accounts.
 
 ### H. Unclaimed Equity Interests
 
-Any proprietary interest in the corporation held by a member that would otherwise escheat to the State of Vermont as unclaimed personal property shall instead become the property of the corporation if the corporation gives at least 60 days prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the corporation’s records, and (2) by publication in a newspaper of general circulation in the county in which the corporation has its principal office.  No property or funds shall become the property of the corporation under this section if written notice objecting to the transfer is received by the corporation from the affected member prior to the date of the proposed transfer.
+Any proprietary interest in the corporation held by a member that would otherwise escheat to the State of Vermont as unclaimed personal property shall instead become the property of the corporation if the corporation gives at least 60 days prior notice of the proposed transfer to the affected member by (1) first-class or second-class mail to the last address of the member shown on the corporation’s records, and (2) by publication in a newspaper of general circulation in the county in which the corporation has its principal office. No property or funds shall become the property of the corporation under this section if written notice objecting to the transfer is received by the corporation from the affected member prior to the date of the proposed transfer.
 
 ### I. Dissolution Distributions
 
-Upon liquidation, dissolution, or sale of the assets of the corporation, any assets left after payment of all debts and Member Account balances shall be distributed to all persons who were members, or to their heirs, in proportion to such members’ relative paid labor with the corporation.  No distribution need be made to any person who fails to acknowledge the receipt of notice of liquidation in a timely manner.  Said notice shall be deemed sufficient if sent by certified mail, at least 30 days before distribution of any residual assets, to the person’s last known business or residence address.
+Upon liquidation, dissolution, or sale of the assets of the corporation, any assets left after payment of all debts and Member Account balances shall be distributed to all persons who were members, or to their heirs, in proportion to such members’ relative paid labor with the corporation. No distribution need be made to any person who fails to acknowledge the receipt of notice of liquidation in a timely manner. Said notice shall be deemed sufficient if sent by certified mail, at least 30 days before distribution of any residual assets, to the person’s last known business or residence address.
 
 ## ARTICLE IX: CHECKS AND CONTRACTS
 
@@ -375,11 +377,11 @@ All checks, drafts, other orders for payment of money, notes, or other evidences
 
 ### B. Executing Corporate Contracts and Instruments 
 
-The board of directors by resolution may authorize any officer, officers, agent, or agents to enter into any contract or to execute any instrument in the name of and on behalf of the corporation.  This authority may be general or it may be confined to one or more specific matters.  No officer, agent, employee, or other person purporting to act on behalf of the corporation will have any power or authority to bind the corporation in any way, to pledge the corporation’s credit, or to render the corporation liable for any purpose or in any amount, unless that person was acting with authority granted by the board of directors as provided in these operating agreement, or unless an unauthorized act was later ratified by the corporation.
+The board of directors by resolution may authorize any officer, officers, agent, or agents to enter into any contract or to execute any instrument in the name of and on behalf of the corporation. This authority may be general or it may be confined to one or more specific matters. No officer, agent, employee, or other person purporting to act on behalf of the corporation will have any power or authority to bind the corporation in any way, to pledge the corporation’s credit, or to render the corporation liable for any purpose or in any amount, unless that person was acting with authority granted by the board of directors as provided in these operating agreement, or unless an unauthorized act was later ratified by the corporation.
 
 ## ARTICLE X: TRANSFER OF MEMBERSHIPS
 
-No member may transfer her or his membership or any right arising therefrom.  Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee.  All rights as a member of the corporation cease upon the member’s death.
+No member may transfer her or his membership or any right arising therefrom. Any attempted assignment or transfer shall be wholly void and shall confer no rights on the intended assignee or transferee. All rights as a member of the corporation cease upon the member’s death.
 
 ## ARTICLE XI: RECORDS
 
@@ -390,15 +392,15 @@ No member may transfer her or his membership or any right arising therefrom.  An
 - minutes of the proceedings of its members, board, and committees of the board; and
 - a record of its members giving their names and addresses.
 
-Minutes and other books and records shall be kept either in written form or in any other form capable of being converted into clearly legible tangible form or in any combination of the foregoing.  
+Minutes and other books and records shall be kept either in written form or in any other form capable of being converted into clearly legible tangible form or in any combination of the foregoing. 
 
 ### B. Inspection Rights
 
-The corporation’s operating agreement and articles shall be open to inspection by the members at all reasonable times during office hours.  
+The corporation’s operating agreement and articles shall be open to inspection by the members at all reasonable times during office hours. 
 
 Any such inspection may be made in person or by agent or attorney and the right of inspection includes the right to copy and make extracts.
 
-committees of the board shall be open to inspection upon the written demand on the corporation of any member at any reasonable time, for a purpose reasonably related to such person’s interests as a member.
+Documents and minutes of committees of the board shall be open to inspection upon the written demand on the corporation of any member at any reasonable time, for a purpose reasonably related to such person’s interests as a member.
 
 Every director shall have the absolute right at any reasonable time to inspect and copy all books, records and documents of every kind and to inspect the physical properties of the corporation.
 
@@ -408,7 +410,7 @@ So long as the corporation does not have more than 25 members at any time during
 
 ## ARTICLE XII: INDEMNIFICATION
 
-The corporation shall have power to indemnify its officers, directors, employees, and agents to the fullest extent permitted by law.  
+The corporation shall have power to indemnify its officers, directors, employees, and agents to the fullest extent permitted by law. 
 
 ## ARTICLE XIII: OPERATING AGREEMENT AMENDMENT
 
