@@ -3,6 +3,8 @@
 
 ## Table of Contents
 - [Article I: Purposes](#article-i-purposes)
+  - [A. Mission Statement](#a-mission-statement)
+  - [B. Articles of Incorporation](#b-articles-of-incorporation)
 - [Article II: Members](#article-ii-members)
   - [A. Classification of Members](#a-classification-of-members)
   - [B. Membership Qualifications](#b-membership-qualifications)
@@ -29,8 +31,7 @@ This company shall be organized and shall conduct its business primarily for the
 The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
 
 ### B. Articles of Incorporation
-- [ ] Legal name of the cooperative:
-_Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken._
+- [ ] Legal name of the cooperative: _Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken._
 
 - [ ] Principle place of business: _This is fairly self-explanatory. Use your cooperative’s primary business address._
 
@@ -40,11 +41,11 @@ _Be sure to use the exact legal name, rather than a “DBA” (“doing business
 
 - [ ] Name, number, and address of the registered agent or statutory agent
 
-    -- [ ] _in some states, the names and contact information of the officers must also be included)._
+    - [ ] _in some states, the names and contact information of the officers must also be included)._
 
-    -- [ ] _In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box._
+    - [ ] _In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box._
 
-    -- [ ] _If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed._
+    - [ ] _If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed._
 
 - [ ] Capital structure (stock or non-stock): _This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here._
 
