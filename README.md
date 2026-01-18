@@ -23,9 +23,23 @@
 
 
 ## ARTICLE I: PURPOSES
+### A. Mission Statement
 This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
 
 The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
+
+### B. Articles of Incorporation
+- [ ] Legal name of the cooperative:
+_Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken._
+
+- [ ] Principle place of business: _This is fairly self-explanatory. Use your cooperative’s primary business address._
+
+- [ ] Purpose of the cooperative: _This should be briefly and broadly defined, so as not to inhibit future development or expansion._
+Period of duration: In most cases, the period of duration will be “perpetual.”
+Name, number, and address of the registered agent or statutory agent (in some states, the names and contact information of the officers must also be included):[2] In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box.[3] If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed.
+Capital structure (stock or non-stock): This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here.[4]
+What happens to the cooperative’s assets in the event of dissolution: In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.[5]
+
 
 ## ARTICLE II: MEMBERS
 ### A. Classification of members
