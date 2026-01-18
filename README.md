@@ -35,10 +35,20 @@ _Be sure to use the exact legal name, rather than a “DBA” (“doing business
 - [ ] Principle place of business: _This is fairly self-explanatory. Use your cooperative’s primary business address._
 
 - [ ] Purpose of the cooperative: _This should be briefly and broadly defined, so as not to inhibit future development or expansion._
-Period of duration: In most cases, the period of duration will be “perpetual.”
-Name, number, and address of the registered agent or statutory agent (in some states, the names and contact information of the officers must also be included):[2] In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box.[3] If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed.
-Capital structure (stock or non-stock): This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here.[4]
-What happens to the cooperative’s assets in the event of dissolution: In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.[5]
+
+- [ ] Period of duration: _In most cases, the period of duration will be “perpetual.”_
+
+- [ ] Name, number, and address of the registered agent or statutory agent
+
+    -- [ ] _in some states, the names and contact information of the officers must also be included)._
+
+    -- [ ] _In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box._
+
+    -- [ ] _If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed._
+
+- [ ] Capital structure (stock or non-stock): _This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here._
+
+- [ ] What happens to the cooperative’s assets in the event of dissolution: _In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations._
 
 
 ## ARTICLE II: MEMBERS
