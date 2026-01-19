@@ -26,7 +26,7 @@
 
 
 ## ARTICLE I: PURPOSES
-_AKA Mission, purpose, and legal structure_
+    _AKA Mission, purpose, and legal structure_
 
     This section often includes the cooperative’s mission statement, vision statement, or stated purpose.
     This is also a good place to restate the information outlined in the Articles of Incorporation.
@@ -40,25 +40,39 @@ This company shall be organized and shall conduct its business primarily for the
 The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
 
 ### B. Articles of Incorporation
-- [ ] Legal name of the cooperative: _Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken._
 
-- [ ] Principle place of business: _This is fairly self-explanatory. Use your cooperative’s primary business address._
+    *SEB: i think Articles of Inc should cone first, then ourpose, then mission...*
+- [ ] Legal name of the cooperative: 
 
-- [ ] Purpose of the cooperative: _This should be briefly and broadly defined, so as not to inhibit future development or expansion._
+      _Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken._
 
-- [ ] Period of duration: _In most cases, the period of duration will be “perpetual.”_
+- [ ] Principle place of business: 
+
+      _This is fairly self-explanatory. Use your cooperative’s primary business address._
+
+- [ ] Purpose of the cooperative: 
+
+      _This should be briefly and broadly defined, so as not to inhibit future development or expansion._
+
+- [ ] Period of duration: 
+
+      _In most cases, the period of duration will be “perpetual.”_
 
 - [ ] Name, number, and address of the registered agent or statutory agent
 
-    - [ ] _in some states, the names and contact information of the officers must also be included)._
+      _in some states, the names and contact information of the officers must also be included)._
 
-    - [ ] _In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box._
+      _In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box._
 
-    - [ ] _If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed._
+      _If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed._
 
-- [ ] Capital structure (stock or non-stock): _This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here._
+- [ ] Capital structure (stock or non-stock): 
 
-- [ ] What happens to the cooperative’s assets in the event of dissolution: _In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations._
+      _This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here._
+
+- [ ] What happens to the cooperative’s assets in the event of dissolution: 
+
+      _In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations._
 
 
 ## ARTICLE II: MEMBERS
