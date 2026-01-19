@@ -102,9 +102,9 @@ Expulsion of a Worker Owner
 
 No Worker-Owner may be expelled or suspended except according to procedures satisfying therequirements of this Section:
 
-##### A. A Worker-Owner may only be expelled from the Cooperative for cause by a vote of twothirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which aquorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
+##### A. A Worker-Owner may only be expelled from the Cooperative for cause by a vote of two-thirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which a quorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
 
-B. Notwithstanding anything herein to the contrary, cause for expulsion or suspension includes, without limitation:
+##### B. Notwithstanding anything herein to the contrary, cause for expulsion or suspension includes, without limitation:
 
   1. not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
   2. frequently missed Shareholder or Board (if a Director) meetings;
@@ -116,15 +116,15 @@ B. Notwithstanding anything herein to the contrary, cause for expulsion or suspe
   8. violating the Cooperative's code of ethics or any other written agreements; or
   9. creating an unhealthy or dysfunctional workplace through inappropriate behavior or disrespect.
 
-C. The Worker-Owner must be given 15 days prior written notice of the proposed expulsion or suspension and the reasons for that proposal to expel or suspend them.
+##### C. The Worker-Owner must be given 15 days prior written notice of the proposed expulsion or suspension and the reasons for that proposal to expel or suspend them.
 
-D. The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.
+##### D. The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.
 
-E. Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.
+##### E. Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.
 
-F. A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.
+##### F. A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.
 
-G. The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.
+##### G. The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.
 
 
 ## ARTICLE III: MEMBER MEETINGS
