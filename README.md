@@ -157,9 +157,22 @@ No Worker-Owner may be expelled or suspended except according to procedures sati
 
 
 ## ARTICLE III: MEMBER MEETINGS
+> maybe "Membership" instead of "Member Meetings"
+
+    III.    Membership Meetings 
+
+    This section should address the details of annual (or periodic) general membership meetings.  Such details may include:
+
+    a)    How often are regular membership meetings held?  How is the agenda compiled?  How is the time and location of the meeting announced?
+
+    b)    How are special membership meetings called?  How are special meetings announced?
+
+    c)    What decision-making process is used?  Consensus?  Modified consensus?  Majority vote?  What percentage of participants must vote in favor in order to approve a decision?  Do stand-asides affect the outcome?  Possible “majority” thresholds include 50% plus 1, 66%, 75%, and occasionally greater percentages.
+
+    d)   What number or percentage of members is needed for quorum?
 
 ### A. Distinction between Membership and Board Meetings
-
+'''
 - Acceptance of members;
 - Election of directors; and
 - Operating Agreement changes that would
@@ -170,6 +183,7 @@ No Worker-Owner may be expelled or suspended except according to procedures sati
   - Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number;
   - Increase the terms of directors; and
   - Increase quorum for meetings
+'''
 
 **Meetings of the members in their capacity as members shall be governed by this Article III.**
 
