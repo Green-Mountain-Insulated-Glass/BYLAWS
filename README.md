@@ -102,7 +102,7 @@ Expulsion of a Worker Owner
 
 No Worker-Owner may be expelled or suspended except according to procedures satisfying therequirements of this Section:
 
-A. A Worker-Owner may only be expelled from the Cooperative for cause by a vote of twothirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which aquorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
+##### A. A Worker-Owner may only be expelled from the Cooperative for cause by a vote of twothirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which aquorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
 
 B. Notwithstanding anything herein to the contrary, cause for expulsion or suspension includes, without limitation:
 
