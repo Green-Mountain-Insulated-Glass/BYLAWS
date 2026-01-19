@@ -78,7 +78,12 @@ A member shall have the right to resign as a member of the company by filing wit
 ### E. Removal of Members
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
 
-A member may for any lawful reason be expelled from the company by a vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
+A member may for any lawful reason be expelled from the company by a 
+
+- [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
+- [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
+- [ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
+- [ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
 
 The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
