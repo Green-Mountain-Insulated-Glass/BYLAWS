@@ -26,13 +26,13 @@
 
 
 ## ARTICLE I: PURPOSES
-    _AKA Mission, purpose, and legal structure_
+    *AKA Mission, purpose, and legal structure*
 
     This section often includes the cooperative’s mission statement, vision statement, or stated purpose.
     This is also a good place to restate the information outlined in the Articles of Incorporation.
     The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
 
-    “The articles of incorporation are hereby made a part of these bylaws.  In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
+    > “The articles of incorporation are hereby made a part of these bylaws.  In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
 
 ### A. Mission Statement
 This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
@@ -41,38 +41,38 @@ The company is democratically controlled and is not organized to make a profit f
 
 ### B. Articles of Incorporation
 
-    *SEB: i think Articles of Inc should cone first, then ourpose, then mission...*
+    > **SEB: i think Articles of Inc should cone first, then ourpose, then mission...**
 - [ ] Legal name of the cooperative: 
 
-      _Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken._
+      *Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken.*
 
 - [ ] Principle place of business: 
 
-      _This is fairly self-explanatory. Use your cooperative’s primary business address._
+      *This is fairly self-explanatory. Use your cooperative’s primary business address.*
 
 - [ ] Purpose of the cooperative: 
 
-      _This should be briefly and broadly defined, so as not to inhibit future development or expansion._
+      *This should be briefly and broadly defined, so as not to inhibit future development or expansion.*
 
 - [ ] Period of duration: 
 
-      _In most cases, the period of duration will be “perpetual.”_
+      *In most cases, the period of duration will be “perpetual.”*
 
 - [ ] Name, number, and address of the registered agent or statutory agent
 
-      _in some states, the names and contact information of the officers must also be included)._
+      *in some states, the names and contact information of the officers must also be included).*
 
-      _In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box._
+      *In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box.*
 
-      _If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed._
+      *If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed.*
 
 - [ ] Capital structure (stock or non-stock): 
 
-      _This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here._
+      *This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here.*
 
 - [ ] What happens to the cooperative’s assets in the event of dissolution: 
 
-      _In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations._
+      *In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.*
 
 
 ## ARTICLE II: MEMBERS
@@ -80,7 +80,10 @@ The company is democratically controlled and is not organized to make a profit f
 The company shall have one (1) class of members.
 
 ### B. Membership Qualifications
-- Be a resident of the United States; **do we need this?**
+- Be a resident of the United States; 
+
+> **do we need this?**
+
 - Work
     - [ ] six months (1040 hours) for the company (The candidacy period);
     - [ ] twelve months (2080 hours) for the company (The candidacy period);
