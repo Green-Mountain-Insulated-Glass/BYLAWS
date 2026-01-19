@@ -27,6 +27,7 @@
 
 ## ARTICLE I: PURPOSES
 > *AKA Mission, purpose, and legal structure*
+> TBD
 
     This section often includes the cooperative’s mission statement, vision statement, or stated purpose.
     This is also a good place to restate the information outlined in the Articles of Incorporation.
@@ -73,7 +74,7 @@ The company is democratically controlled and is not organized to make a profit f
 
 - [ ] What happens to the cooperative’s assets in the event of dissolution: 
 
-      *In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.*
+> In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
 
 
 ## ARTICLE II: MEMBERS
@@ -84,7 +85,7 @@ The company shall have one (1) class of members.
 - Be a resident of the United States; 
 
 > **do we need this?**
-
+> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
 - Work
     - [ ] six months (1040 hours) for the company (The candidacy period);
     - [ ] twelve months (2080 hours) for the company (The candidacy period);
@@ -103,10 +104,12 @@ In the case of an application by a former member, the company may waive the Cand
 A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.
 
 ### E. Removal of Members Option 1
+> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
 
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
 
 A member may for any lawful reason be expelled from the company by a 
+> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
 
 - [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
 - [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
@@ -122,6 +125,7 @@ A member who is expelled or suspended or whose membership is terminated shall be
 The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.
 
 ### F. Removal of Members Option 2
+> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
 
 Expulsion of a Worker Owner
 
