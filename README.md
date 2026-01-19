@@ -1,6 +1,10 @@
 # BYLAWS
 ### OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
 
+>
+> This is a work in progress as of 1/19/2026
+>
+
 ## Table of Contents
 - [Article I: Purposes](#article-i-purposes)
   - [A. Mission Statement](#a-mission-statement)
