@@ -26,6 +26,14 @@
 
 
 ## ARTICLE I: PURPOSES
+_AKA Mission, purpose, and legal structure_
+
+    This section often includes the cooperative’s mission statement, vision statement, or stated purpose.
+    This is also a good place to restate the information outlined in the Articles of Incorporation.
+    The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
+
+    “The articles of incorporation are hereby made a part of these bylaws.  In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
+
 ### A. Mission Statement
 This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
 
