@@ -26,8 +26,12 @@
 
 
 ## ARTICLE I: PURPOSES
+
+>
 > *AKA Mission, purpose, and legal structure*
+>
 > TBD
+>
 
     This section often includes the cooperative’s mission statement, vision statement, or stated purpose.
     This is also a good place to restate the information outlined in the Articles of Incorporation.
@@ -42,39 +46,55 @@ The company is democratically controlled and is not organized to make a profit f
 
 ### B. Articles of Incorporation
 
+>
 > **NOTE: Articles of Inc. should come first, then ourpose, then mission?**
+>
 
 - [ ] Legal name of the cooperative: 
 
+>
 > Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken.
+>
 
 - [ ] Principle place of business: 
 
+>
 > This is fairly self-explanatory. Use your cooperative’s primary business address.
+>
 
 - [ ] Purpose of the cooperative: 
 
+>
 > This should be briefly and broadly defined, so as not to inhibit future development or expansion.
+>
 
 - [ ] Period of duration: 
 
+>
 > In most cases, the period of duration will be “perpetual.”
+>
 
 - [ ] Name, number, and address of the registered agent or statutory agent
 
-> in some states, the names and contact information of the officers must also be included).
-
-> In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box.
-
-> If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed.
+>
+> - in some states, the names and contact information of the officers must also be included).
+>
+> - In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box.
+>
+> - If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed.
+>
 
 - [ ] Capital structure (stock or non-stock): 
 
+>
 > This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here.
+>
 
 - [ ] What happens to the cooperative’s assets in the event of dissolution: 
 
+>
 > In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
+>
 
 
 ## ARTICLE II: MEMBERS
@@ -84,8 +104,12 @@ The company shall have one (1) class of members.
 ### B. Membership Qualifications
 - Be a resident of the United States; 
 
+>
 > **do we need this?**
+>
 > NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
+>
+
 - Work
     - [ ] six months (1040 hours) for the company (The candidacy period);
     - [ ] twelve months (2080 hours) for the company (The candidacy period);
@@ -104,17 +128,25 @@ In the case of an application by a former member, the company may waive the Cand
 A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.
 
 ### E. Removal of Members Option 1
-> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
+
+>
+> **Options/TBD**
+>
 
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
 
 A member may for any lawful reason be expelled from the company by a 
-> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
 
-- [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
-- [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
-- [ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
-- [ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
+>
+> **Options/TBD**
+>
+>>
+>> - [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
+>> - [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
+>> - [ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
+>> - [ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
+>>
+>
 
 The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
@@ -125,7 +157,10 @@ A member who is expelled or suspended or whose membership is terminated shall be
 The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.
 
 ### F. Removal of Members Option 2
-> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
+
+>
+> **Options/TBD**
+>
 
 Expulsion of a Worker Owner
 
@@ -157,7 +192,12 @@ No Worker-Owner may be expelled or suspended except according to procedures sati
 
 
 ## ARTICLE III: MEMBER MEETINGS
+
+>
+> **This section needs work**
+>
 > maybe "Membership" instead of "Member Meetings"
+>
 
     III.    Membership Meetings 
 
@@ -172,18 +212,21 @@ No Worker-Owner may be expelled or suspended except according to procedures sati
     d)   What number or percentage of members is needed for quorum?
 
 ### A. Distinction between Membership and Board Meetings
-'''
-- Acceptance of members;
-- Election of directors; and
-- Operating Agreement changes that would
-  - Materially and adversely affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital;
-  - Increase or decrease the number of members authorized in total or for any class;
-  - Effect an exchange, reclassification, or cancellation of all or part of the companies memberships;
-  - Authorize a new class of membership;
-  - Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number;
-  - Increase the terms of directors; and
-  - Increase quorum for meetings
-'''
+
+>
+> THE BELOW IS COPY-PASTA from 
+>
+> - Acceptance of members;
+> - Election of directors; and
+> - Operating Agreement changes that would
+> - Materially and adversely affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital;
+> - Increase or decrease the number of members authorized in total or for any class;
+> - Effect an exchange, reclassification, or cancellation of all or part of the companies memberships;
+> - Authorize a new class of membership;
+> - Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number;
+> - Increase the terms of directors; and
+> - Increase quorum for meetings
+>
 
 **Meetings of the members in their capacity as members shall be governed by this Article III.**
 
