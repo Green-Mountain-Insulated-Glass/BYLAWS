@@ -589,7 +589,7 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
 ## Markdown
 
-    [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+  [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Bylaw samples
 
