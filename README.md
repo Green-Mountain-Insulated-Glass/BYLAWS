@@ -1,8 +1,10 @@
-# BYLAWS
+# BYLAWS **unratified**
 ### OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
 
 >
 > This is a work in progress as of 1/19/2026
+>
+> basic approach borrowed from [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md) with various changes, additoons, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws. 
 >
 
 ## Table of Contents
