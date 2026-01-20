@@ -1,17 +1,17 @@
 # BYLAWS **unratified**
-### OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
+## OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
 
 >
-> This is a work in progress as of 1/19/2026
+> This is a work in progress as of 1/20/2026
 >
 > basic approach borrowed from [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md) with various changes, additoons, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws. 
 >
 
-## Table of Contents
-- [Article I: Purposes](#article-i-purposes)
+### Table of Contents
+- [Article I: Articles of Incorporation](#article-i-articles-of-incorporation)
+- [Article II: Purpose](#article-ii-purpose)
   - [A. Mission Statement](#a-mission-statement)
-  - [B. Articles of Incorporation](#b-articles-of-incorporation)
-- [Article II: Members](#article-ii-members)
+- [Article III: Membership](#article-iii-membership)
   - [A. Classification of Members](#a-classification-of-members)
   - [B. Membership Qualifications](#b-membership-qualifications)
   - [C. Acceptance of Members](#c-acceptance-of-members)
@@ -33,7 +33,136 @@
   - [Bylaw Samples](#bylaw-samples)
   - [Glossary](#glossary)
 
-## ARTICLE I: PURPOSES
+### ARTICLE I: ARTICLES OF INCORPORATION 
+
+The aim is to convert an existing business into a worker cooperative. The existing business is [GREEN MOUNTAIN INSULATED GLASS INC](https://bizfilings.vermont.gov/business/info)
+
+Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN. 
+
+If the former, this will be the articles:
+
+Business Name
+    GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC
+    
+Business Type
+    Worker Cooperative Corporation
+    
+Election Type
+    TBD
+
+Record Number
+    TBD
+    
+Business Status
+    TBD
+    
+Principal Office (Street Address)
+    10 Ripley Road, Rutland, VT, 05701, USA
+    
+Mailing Address
+    10 Ripley Road, Rutland, VT, 05701, USA 
+    
+Date of Formation
+    TBD
+    
+
+**Annual Report Information**
+
+Report Status
+    TBD
+    
+Reporting Period Opens
+TBD
+
+Fiscal Year End Month
+    December
+    
+Business Purpose (NAICS Codes)
+    999999-Any Lawful Purpose
+
+
+**Registered Agent Information**
+
+Agent Name
+    TBD
+    
+Agent Type
+    TBD
+    
+Status
+    TBD
+    
+Resignation Date
+    TBD
+    
+Registered Office (Street Address)
+    10 Ripley Road, Rutland, VT, 05701, USA
+    
+Mailing Address
+    10 Ripley Road, Rutland, VT, 05701, USA 
+    
+**Principal Information (5)**
+
+Name
+    TBD
+    
+Capacity
+    Secretary
+    
+Physical Address
+    TBD
+    
+Mailing Address
+    TBD
+
+
+Name
+    TBD
+     
+Capacity
+    President
+    
+Physical Address
+    TBD
+    
+Mailing Address
+    TBD
+
+
+Name
+    TBD
+Capacity
+    Incorporator
+Physical Address
+    TBD
+Mailing Address
+    TBD
+
+
+Name
+    TBD 
+Capacity
+    Treasurer
+Physical Address
+    TBD
+Mailing Address
+    TBD 
+
+
+Name
+    TBD 
+Capacity
+    Director
+Physical Address
+    TBD
+Mailing Address
+    TBD
+
+———
+
+In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
+
+## ARTICLE II: PURPOSE
 
 >
 > *AKA Mission, purpose, and legal structure*
@@ -45,75 +174,23 @@
     This is also a good place to restate the information outlined in the Articles of Incorporation.
     The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
 
-    “The articles of incorporation are hereby made a part of these bylaws.  In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
+    “The articles of incorporation are hereby made a part of these bylaws. In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
 
 ### A. Mission Statement
 This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
 
 The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
 
-### B. Articles of Incorporation
-
->
-> **NOTE: Articles of Inc. should come first, then ourpose, then mission?**
->
-
-- [ ] Legal name of the cooperative: 
-
->
-> Be sure to use the exact legal name, rather than a “DBA” (“doing business as”) name. Check your Secretary of State’s online database to make sure the legal name you want to use is not already taken.
->
-
-- [ ] Principle place of business: 
-
->
-> This is fairly self-explanatory. Use your cooperative’s primary business address.
->
-
-- [ ] Purpose of the cooperative: 
-
->
-> This should be briefly and broadly defined, so as not to inhibit future development or expansion.
->
-
-- [ ] Period of duration: 
-
->
-> In most cases, the period of duration will be “perpetual.”
->
-
-- [ ] Name, number, and address of the registered agent or statutory agent
-
->
-> - in some states, the names and contact information of the officers must also be included).
->
-> - In most states, corporations must designate a registered agent or statutory agent. This individual must be available to receive official documents on behalf of the cooperative. The address provided cannot be a P.O. Box.
->
-> - If a new registered agent is designated (or if new officers are elected, if applicable), the Articles of Incorporation must be updated and re-filed.
->
-
-- [ ] Capital structure (stock or non-stock): 
-
->
-> This article should specify the number of shares authorized and the value of membership stock (and other types of stock, if applicable). Associated voting rights are detailed in the Bylaws, but may be referenced here.
->
-
-- [ ] What happens to the cooperative’s assets in the event of dissolution: 
-
->
-> In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
->
 
 
-## ARTICLE II: MEMBERS
+
+## ARTICLE III: MEMBERSHIP
+
 ### A. Classification of members
 The company shall have one (1) class of members.
 
 ### B. Membership Qualifications
-- Be a resident of the United States; 
 
->
-> **do we need this?**
 >
 > NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
 >
@@ -133,13 +210,12 @@ The members shall decide by the modified consensus process described in Article 
 In the case of an application by a former member, the company may waive the Candidacy Period and accept back the former member immediately by the affirmative vote of all the members.
 
 ### D. Membership Resignation
+
 A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.
 
-### E. Removal of Members Option 1
+### E. Process for the Removal of Members
 
->
-> **Options/TBD**
->
+#### 
 
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
 
@@ -174,17 +250,22 @@ Expulsion of a Worker Owner
 
 No Worker-Owner may be expelled or suspended except according to procedures satisfying therequirements of this Section:
 
-#### A. A Worker-Owner may only be expelled from the Cooperative for cause by a vote of two-thirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which a quorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
+#### A. Worker-Owner Expulsion Rules
 
-#### B. Notwithstanding anything herein to the contrary, cause for expulsion or suspension includes, without limitation:
+A Worker-Owner may only be expelled from the Cooperative for cause by a vote of two-thirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which a quorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
 
-  1. not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
+#### B. Causes for Worker-Owner Expulsion or Suspension
+
+Notwithstanding anything herein to the contrary, cause for expulsion or suspension includes, without limitation:
+  
+
+   1. not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
   2. frequently missed Shareholder or Board (if a Director) meetings;
   3. violating policies with staff or other Shareholders;
   4. disclosing confidential or sensitive information about the Cooperative to unauthorized persons;
   5. a new felony or serious misdemeanor conviction;
   6. being declared incapacitated by final order of a court;
-  7. using the Cooperative for their own personal gain;
+  7. Using the Cooperative for personal financial gain in a manner that, either intentionally or accidentally, limits, hinders, detracts, or otherwise diminishes the overall capacity of the Cooperative to benefit the other members;
   8. violating the Cooperative's code of ethics or any other written agreements; or
   9. creating an unhealthy or dysfunctional workplace through inappropriate behavior or disrespect.
 
@@ -192,24 +273,161 @@ No Worker-Owner may be expelled or suspended except according to procedures sati
 
 #### D. The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.
 
-#### E. Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.
+#### E. Actual Notice Requirement
 
-#### F. A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.
+Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.
 
-#### G. The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.
+#### F. Expelled Worker-Owner and or Suspended Worker-Owner Liabilities
+ 
+A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.
+
+#### G. The Cooperative’s Rights When Considering Matters of Worker-Owner Expulsion or Suspension
+
+The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.
 
 
-## ARTICLE III: MEMBER MEETINGS
+## ARTICLE III: MEMBERSHIP
 
->
-> **This section needs work**
->
-> maybe "Membership" instead of "Member Meetings"
->
+### Membership Defined
 
-    III.    Membership Meetings 
+### Rights and Obligations of Members
 
-    This section should address the details of annual (or periodic) general membership meetings.  Such details may include:
+#### Member Voting Rights and Obligations
+
+#### Member Dissolution Rights and Obligations
+
+#### Member Redemption Rights and Obligations
+
+#### Member Transfer Rights and Obligations
+
+#### Member Distribution Rights and Obligations
+
+#### Member Patronage distributions Rights and Obligations
+
+#### patronage Rights and Obligations
+
+#### property rights Rights and Obligations
+
+#### rights to repayment of contributed capital Rights and Obligations
+
+[26 USC 1388: Definitions; special rules
+Text contains those laws in effect on January 19, 2026; From Title 26-INTERNAL REVENUE CODE; Subtitle A-Income Taxes; CHAPTER 1-NORMAL TAXES AND SURTAXES; Subchapter T-Cooperatives and Their Patrons; PART III-DEFINITIONS; SPECIAL RULES](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1388&num=0&edition=prelim)
+
+§1388. […] the term "patronage dividend" means an amount paid to a patron by an organization […] on the basis of quantity or value of business done with or for such patron […] under an obligation of such organization to pay such amount, which obligation existed before the organization received the amount so paid, and […] which is determined by reference to the net earnings of the organization from business done with or for its patrons.
+
+Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business done with or for patrons, or (B) such amount is out of earnings from business done with or for other patrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions. For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.
+(b) Written notice of allocation
+For purposes of this subchapter, the term "written notice of allocation" means any capital stock, revolving fund certificate, retain certificate, certificate of indebtedness, letter of advice, or other written notice, which discloses to the recipient the stated dollar amount allocated to him by the organization and the portion thereof, if any, which constitutes a patronage dividend.
+(c) Qualified written notice of allocation
+(1) Defined
+For purposes of this subchapter, the term "qualified written notice of allocation" means—
+(A) a written notice of allocation which may be redeemed in cash at its stated dollar amount at any time within a period beginning on the date such written notice of allocation is paid and ending not earlier than 90 days from such date, but only if the distributee receives written notice of the right of redemption at the time he receives such written notice of allocation; and
+(B) a written notice of allocation which the distributee has consented, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
+
+Such term does not include any written notice of allocation which is paid as part of a patronage dividend or as part of a payment described in section 1382(c)(2)(A), unless 20 percent or more of the amount of such patronage dividend, or such payment, is paid in money or by qualified check.
+(2) Manner of obtaining consent
+A distributee shall consent to take a written notice of allocation into account as provided in paragraph (1)(B) only by—
+(A) making such consent in writing,
+(B) obtaining or retaining membership in the organization after—
+(i) such organization has adopted (after October 16, 1962) a bylaw providing that membership in the organization constitutes such consent, and
+(ii) he has received a written notification and copy of such bylaw, or
+
+(C) if neither subparagraph (A) nor (B) applies, endorsing and cashing a qualified check, paid as a part of the patronage dividend or payment of which such written notice of allocation is also a part, on or before the 90th day after the close of the payment period for the taxable year of the organization for which such patronage dividend or payment is paid.
+(3) Period for which consent is effective
+(A) General rule
+Except as provided in subparagraph (B)—
+(i) a consent described in paragraph (2) (A) shall be a consent with respect to all patronage of the distributee with the organization occurring (determined with the application of section 1382(e)) during the taxable year of the organization during which such consent is made and all subsequent taxable years of the organization; and
+(ii) a consent described in paragraph (2) (B) shall be a consent with respect to all patronage of the distributee with the organization occurring (determined without the application of section 1382(e)) after he received the notification and copy described in paragraph (2)(B)(ii).
+(B) Revocation, etc.
+(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first day of the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
+(ii) Any consent described in paragraph (2)(B) shall not be effective with respect to any patronage occurring (determined without the application of section 1382(e)) after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
+(4) Qualified check
+For purposes of this subchapter, the term "qualified check" means only a check (or other instrument which is redeemable in money) which is paid as a part of a patronage dividend, or as a part of a payment described in section 1382(c)(2)(A), to a distributee who has not given consent as provided in paragraph (2)(A) or (B) with respect to such patronage dividend or payment, and on which there is clearly imprinted a statement that the endorsement and cashing of the check (or other instrument) constitutes the consent of the payee to include in his gross income, as provided in the Federal income tax laws, the stated dollar amount of the written notice of allocation which is a part of the patronage dividend or payment of which such qualified check is also a part. Such term does not include any check (or other instrument) which is paid as part of a patronage dividend or payment which does not include a written notice of allocation (other than a written notice of allocation described in paragraph (1)(A)).
+(d) Nonqualified written notice of allocation
+For purposes of this subchapter, the term "nonqualified written notice of allocation" means a written notice of allocation which is not described in subsection (c) or a qualified check which is not cashed on or before the 90th day after the close of the payment period for the taxable year for which the distribution of which it is a part is paid.
+(e) Determination of amount paid or received
+For purposes of this subchapter, in determining amounts paid or received—
+(1) property (other than a written notice of allocation or a per-unit retain certificate) shall be taken into account at its fair market value, and
+(2) a qualified written notice of allocation or qualified per-unit retain certificate shall be taken into account at its stated dollar amount.
+(f) Per-unit retain allocation
+For purposes of this subchapter, the term "per-unit retain allocation" means any allocation, by an organization to which part I of this subchapter applies, to a patron with respect to products marketed for him, the amount of which is fixed without reference to the net earnings of the organization pursuant to an agreement between the organization and the patron.
+(g) Per-unit retain certificate
+For purposes of this subchapter, the term "per-unit retain certificate" means any written notice which discloses to the recipient the stated dollar amount of a per-unit retain allocation to him by the organization.
+(h) Qualified per-unit retain certificate
+(1) Defined
+For purposes of this subchapter, the term "qualified per-unit retain certificate" means any per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
+(2) Manner of obtaining agreement
+A distributee shall agree to take a per-unit retain certificate into account as provided in paragraph (1) only by—
+(A) making such agreement in writing, or
+(B) obtaining or retaining membership in the organization after—
+(i) such organization has adopted (after November 13, 1966) a bylaw providing that membership in the organization constitutes such agreement, and
+(ii) he has received a written notification and copy of such bylaw.
+(3) Period for which agreement is effective
+(A) General rule
+Except as provided in subparagraph (B)—
+(i) an agreement described in paragraph (2)(A) shall be an agreement with respect to all products delivered by the distributee to the organization during the taxable year of the organization during which such agreement is made and all subsequent taxable years of the organization; and
+(ii) an agreement described in paragraph (2)(B) shall be an agreement with respect to all products delivered by the distributee to the organization after he received the notification and copy described in paragraph (2)(B)(ii).
+(B) Revocation, etc.
+(i) Any agreement described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to products delivered by the distributee on or after the first day of the first taxable year of the organization beginning after the revocation is filed with the organization; except that in the case of a pooling arrangement described in section 1382(e) a revocation made by a distributee shall not be effective as to any products which were delivered to the organization by the distributee before such revocation.
+(ii) Any agreement described in paragraph (2)(B) shall not be effective with respect to any products delivered after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
+(i) Nonqualified per-unit retain certificate
+For purposes of this subchapter, the term "nonqualified per-unit retain certificate" means a per-unit retain certificate which is not described in subsection (h).
+(j) Special rules for the netting of gains and losses by cooperatives
+For purposes of this subchapter, in the case of any organization to which part I of this subchapter applies—
+(1) Optional netting of patronage gains and losses permitted
+The net earnings of such organization may, at its option, be determined by offsetting patronage losses (including any patronage loss carried to such year) which are attributable to 1 or more allocation units (whether such units are functional, divisional, departmental, geographic, or otherwise) against patronage earnings of 1 or more other such allocation units.
+(2) Certain netting permitted after section 381 transactions
+If such an organization acquires the assets of another such organization in a transaction described in section 381(a), the acquiring organization may, in computing its net earnings for taxable years ending after the date of acquisition, offset losses of 1 or more allocation units of the acquiring or acquired organization against earnings of the acquired or acquiring organization, respectively, but only to the extent—
+(A) such earnings are properly allocable to periods after the date of acquisition, and
+(B) such earnings could have been offset by such losses if such earnings and losses had been derived from allocation units of the same organization.
+(3) Notice requirements
+(A) In general
+In the case of any organization which exercises its option under paragraph (1) for any taxable year, such organization shall, on or before the 15th day of the 9th month following the close of such taxable year, provide to its patrons a written notice which—
+(i) states that the organization has offset earnings and losses from 1 or more of its allocation units and that such offset may have affected the amount which is being distributed to its patrons,
+(ii) states generally the identity of the offsetting allocation units, and
+(iii) states briefly what rights, if any, its patrons may have to additional financial information of such organization under terms of its charter, articles of incorporation, or bylaws, or under any provision of law.
+(B) Certain information need not be provided
+An organization may exclude from the information required to be provided under clause (ii) of subparagraph (A) any detailed or specific data regarding earnings or losses of such units which such organization determines would disclose commercially sensitive information which—
+(i) could result in a competitive disadvantage to such organization, or
+(ii) could create a competitive advantage to the benefit of a competitor of such organization.
+(C) Failure to provide sufficient notice
+If the Secretary determines that an organization failed to provide sufficient notice under this paragraph—
+(i) the Secretary shall notify such organization, and
+(ii) such organization shall, upon receipt of such notification, provide to its patrons a revised notice meeting the requirements of this paragraph.
+
+Any such failure shall not affect the treatment of the organization under any provision of this subchapter or section 521.
+(4) Patronage earnings or losses defined
+For purposes of this subsection, the terms "patronage earnings" and "patronage losses" means 1 earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
+(k) Cooperative marketing includes value-added processing involving animals
+For purposes of section 521 and this subchapter, the marketing of the products of members or other producers shall include the feeding of such products to cattle, hogs, fish, chickens, or other animals and the sale of the resulting animals or animal products.
+(Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, §211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, §911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, §316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, §13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, §11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 108–357, title III, §§312(a), 316(a), Oct. 22, 2004, 118 Stat. 1467, 1469.)
+
+
+### Acceptance of Members
+
+
+### Election of Directors
+
+
+### Operating Agreement Changes 
+
+This section concerns how to make changes that would materially affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital, including:
+
+#### Increase or decrease the number of members authorized in total or for any class
+
+#### Effect an exchange, reclassification, or cancellation of all or part of the companies memberships
+
+#### Authorize a new class of membership
+
+#### Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number
+
+#### Increase the terms of directors
+
+#### Increase quorum for meetings
+
+    III. Membership Meetings 
+
+    This section should address the details of annual (or periodic) general membership meetings. Such details may include:
 
     a)    How often are regular membership meetings held?  How is the agenda compiled?  How is the time and location of the meeting announced?
 
@@ -221,20 +439,6 @@ No Worker-Owner may be expelled or suspended except according to procedures sati
 
 ### A. Distinction between Membership and Board Meetings
 
->
-> THE BELOW IS COPY-PASTA from 
->
-> - Acceptance of members;
-> - Election of directors; and
-> - Operating Agreement changes that would
-> - Materially and adversely affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital;
-> - Increase or decrease the number of members authorized in total or for any class;
-> - Effect an exchange, reclassification, or cancellation of all or part of the companies memberships;
-> - Authorize a new class of membership;
-> - Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number;
-> - Increase the terms of directors; and
-> - Increase quorum for meetings
->
 
 **Meetings of the members in their capacity as members shall be governed by this Article III.**
 
@@ -608,6 +812,48 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 11. [BYLAWS Green Mountain Insulated Glass Cooperative Inc.](https://github.com/Green-Mountain-Insulated-Glass/BYLAWS/blob/main/README.md)
 12. [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md)
 13. [THE SOCIETY OF GRADUATE STUDENTS The University Western Ontario](https://github.com/MartinLe5/Bylaws/blob/master/Unified_Docs%204.pdf) 
+
+##Cooperative Bylaws should include: 
+ 1. Mission, purpose, and legal structure   
+This section often includes the cooperative’s mission statement, vision statement, or stated purpose. This is also a good place to restate the information outlined in the Articles of Incorporation.  The Bylaws should agree with the Articles, but you may wish to include this useful phrase:  
+```
+“The articles of incorporation are hereby made a part of these bylaws.  In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
+```
+
+ 2. Membership 
+This section should describe each membership class (if more than one). For each membership class, outline who is eligible for membership, the requirements for membership, voting rights.  Specify rules for suspension or termination of membership, including guidelines for returning member investments.  Note that membership shares are often non-transferrable.  In worker cooperatives, this section or an alternative section may also outline guidelines relating to additional rights and responsibilities of workers.  Such guidelines may address working conditions, the pay scale or pay differential, and more.
+  3. Membership Meetings  
+ This section should address the details of annual (or periodic) general membership meetings.  Such details may include: 
+- How often are regular membership meetings held?
+- How is the agenda compiled?
+- How is the time and location of the meeting announced?
+- How are special membership meetings called?
+- How are special meetings announced?   3. What decision-making process is used?  
+- Consensus?  
+- Modified consensus?  
+- Majority vote?  
+- What percentage of participants must vote in favor in order to approve a decision?  
+- Do stand-asides affect the outcome? 
+    
+```
+Possible “majority” thresholds include 50% plus 1, 66%, 75%, and occasionally greater percentages.
+```
+   4. What number or percentage of members is needed for quorum?
+IV.    Board of Directors:   
+Note: in some smaller cooperatives (especially collectives), the entire membership constitutes the governing body, or the Board.[2]  If this is the case, members may still find it useful to distinguish governance-level decisions from operational decisions.[1]  The “Board Directors” section should answer these questions:   a)    What is the minimum or maximum number of Board Directors?  It may be useful to specify a range in the Bylaws, so the Board can grow if needed.  Cooperatives often try to have an odd number of directors.  Do you want the Board to reflect certain constituents?  Many consumer-owned cooperatives strive to fill a certain number of seats with staff members.  b)    How are Board Directors elected?  How long are Board terms?  Many cooperatives try to stagger terms, so that only about half of the Board seats are up for re-election at a time.  This helps to ensure organizational stability and preserve institutional memory.  c)     How are vacancies filled?  Some cooperatives allow the Board Directors to fill vacant seats, while others require a special vote of the membership.[5] [6]  Others offer vacant seats to runners-up from recent elections.   d)    Under what circumstances can Directors be removed?  What is the process for removing Directors?  In cases of serious misconduct or negligence, suspension or removal may be automatic.  In other cases, there may need to be a mechanism for empowering members to recall Directors or Board Decisions.  e)    Will Directors be paid for serving on the Board?  If so, how much?  Different states have different statutes.    f)    Do you wish to prohibit Board Directors from voting if they have a conflict of interest (such as compensation of officers)?  Here is a useful phrase:   “It shall be the duty of all board directors to make prompt and full disclosure to the board of any personal, professional, or financial conflict of interest in a matter under discussion.  When a conflict of interest is disclosed, the board member must not participate in the discussion or vote on the relevant issue.”[4]      g)    How often are Board Meetings held?  How will the time and location be communicated to members?  Under what circumstances can emergency Board meetings be called, and how will they be announced?  h)    What are the general duties of Board Directors?  What is their relationship to the management, staff, and members?   i)    What is the role of the management?  Typically (co-)managers oversee daily operations in compliance with general guidelines set by the Board, and report to the Board of Directors.  j)    Will there be Board Committees?  Should these be defined in the Bylaws?  How are Board Committees formed?  What are the limitations of Board Committees’ decision-making power?[6]
+ V.    Board Officers  
+The Board may be required to designate a President / Chair, Secretary, Treasurer, and / or alternatives.  Check your state’s requirements, and outline the duties of each officer in subsections.  Also specify how officers are designated (elected directly by the membership or chosen by Board Directors) and how long their terms last.
+VI.    Finances
+ Be sure to cover the following (check your state’s statutes):   a)       How are net proceeds (both margins and losses) apportioned?  b)       How are proceeds distributed?  c)       What are your policies for patronage refunds and reserves?  d)       Check the IRS code for guidelines for equity records.  Cover equity redemption for terminating members, deceased members, and unclaimed equity.  e)       Consent to patronage distributions.  Another useful phrase:  “Consent to patronage distributions” means that all members will report their co-op patronage refunds and retained capital equity to the IRS as earnings.  Each year members will receive a 1099 form itemizing their patronage refunds earned in that year.”[4]     It is helpful to state in the Bylaws and in your membership contract that individuals consent to comply with relevant tax laws upon becoming members.[1]
+ VII.    Administration and Miscellaneous
+ This section can include a variety of topics (organized into subsections).  Topics may include when the fiscal year begins, what meeting process is used (Robert’s Rules of Order, Butler’s Formal Consensus, or another system detailed in a separate text that can be referenced by members), use of a corporate seal or logo, indemnification and insurance coverage for Directors, financial reviews, options for advisory councils and committees, and more.[4]  Separate sections can be created for these topics if desired.[5]
+ VIII.    Amendment to the Bylaws
+ It is important to state the procedure for amending the Bylaws.  How does a Board Director or member propose an amendment?  How is an amendment approved?  (This often requires a period or special general membership meeting and a vote of the membership.  Some cooperatives require that members petition for a special meeting and / or Bylaws change in order to demonstrate that their proposal has some support.)
+ IX.    Dissolution
+ What procedures should be followed if the cooperative goes out of business?  If members or Board Directors are interested in dissolving the cooperative voluntarily?  How will remaining assets be divided?  This part should be consistent with your Articles of Incorporation.[4] 
+Model Bylaws for A Worker Cooperative
+The ICA Group presents legal forms and guidelines for creating a worker cooperative corporation in their publication "ICA MODEL BYLAWS FOR A WORKER COOPERATIVE" (Download: File:ICA Model Bylaws for a Worker Cooperative.pdf). While this publication is not designed as a substitute for competent legal advice, it can be a helpful tool in your consultations with local counsel.
+
 
 ## Glossary
 
