@@ -2,12 +2,15 @@
 ## OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC.
 
 >
-> This is a work in progress as of 1/20/2026
+> This is a work in progress as of 1/19/2026
 >
 > basic approach borrowed from [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md) with various changes, additoons, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws. 
 >
+>
+> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
+>
 
-### Table of Contents
+### Table of Contents *work in progress some links broken*
 - [Article I: Articles of Incorporation](#article-i-articles-of-incorporation)
 - [Article II: Purpose](#article-ii-purpose)
   - [A. Mission Statement](#a-mission-statement)
@@ -35,14 +38,17 @@
 
 ### ARTICLE I: ARTICLES OF INCORPORATION 
 
-The aim is to convert an existing business into a worker cooperative. The existing business is [GREEN MOUNTAIN INSULATED GLASS INC](https://bizfilings.vermont.gov/business/info)
+The aim is to **convert??** **form??** an existing business into a worker cooperative. The existing business is [GREEN MOUNTAIN INSULATED GLASS INC](https://bizfilings.vermont.gov/business/info)
 
-Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN. 
+The converted/newly-formed business shall be named: **TBD** 
+>
+> Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN. 
+>
 
-If the former, this will be the articles:
+**These below articles are unfinished.**
 
 Business Name
-    GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC
+    GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??**
     
 Business Type
     Worker Cooperative Corporation
@@ -162,27 +168,24 @@ Mailing Address
 
 In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
 
+The articles of incorporation are hereby made a part of these bylaws. In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.
+
 ## ARTICLE II: PURPOSE
 
->
-> *AKA Mission, purpose, and legal structure*
->
-> TBD
->
+### A. Business Purpose
 
-    This section often includes the cooperative’s mission statement, vision statement, or stated purpose.
-    This is also a good place to restate the information outlined in the Articles of Incorporation.
-    The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
-
-    “The articles of incorporation are hereby made a part of these bylaws. In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
-
-### A. Mission Statement
 This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
 
 The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
 
+### B. Cooperative Purpose
+
+To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy. 
 
 
+## DEFINITIONS
+
+We should out them here. It will mess up the numbering, which will mess up the table of contents (which is already messed up so whatever).
 
 ## ARTICLE III: MEMBERSHIP
 
@@ -190,10 +193,6 @@ The company is democratically controlled and is not organized to make a profit f
 The company shall have one (1) class of members.
 
 ### B. Membership Qualifications
-
->
-> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation. 
->
 
 - Work
     - [ ] six months (1040 hours) for the company (The candidacy period);
@@ -205,32 +204,31 @@ The company shall have one (1) class of members.
 - Receiving a copy of the company’s Disclosure Statement, operating agreement, and a receipt 
 
 ### C. Acceptance of Members
-The members shall decide by the modified consensus process described in Article VI whether to accept an application for membership. If an application is not accepted, the applicant’s employment shall be immediately terminated, unless the members, by the modified consensus process, choose to specify a further Candidacy Period to be followed by a second decision by the members whether to accept the application. Upon acceptance of an application, the applicant shall immediately become a member.
+
+The members shall decide by the modified consensus process described in **Article TBD** whether to accept an application for membership. If an application is not accepted, the applicant’s employment shall be immediately terminated, unless the members, by the modified consensus process, choose to specify a further Candidacy Period to be followed by a second decision by the members whether to accept the application. Upon acceptance of an application, the applicant shall immediately become a member.
 
 In the case of an application by a former member, the company may waive the Candidacy Period and accept back the former member immediately by the affirmative vote of all the members.
 
+
 ### D. Membership Resignation
 
-A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.
+A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for **the company** for one month following voluntary termination of membership unless their membership is reinstated by **the company**. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of **the company** to enforce any such obligation or obtain damages for its breach.
 
 ### E. Process for the Removal of Members
 
-#### 
+**Combine this and next section??**
 
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
 
 A member may for any lawful reason be expelled from the company by a 
 
->
-> **Options/TBD**
->
->>
->> - [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
->> - [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
->> - [ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
->> - [ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
->>
->
+- [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
+
+- [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
+
+- [ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
+
+- [ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
 
 The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
 
@@ -240,48 +238,52 @@ A member who is expelled or suspended or whose membership is terminated shall be
 
 The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.
 
-### F. Removal of Members Option 2
+### F. Expulsion of Worker-Owners
 
->
-> **Options/TBD**
->
+**Split up expulsion with suspension??**
 
-Expulsion of a Worker Owner
 
 No Worker-Owner may be expelled or suspended except according to procedures satisfying therequirements of this Section:
 
-#### A. Worker-Owner Expulsion Rules
+#### 1. Worker-Owner Expulsion Rules
 
 A Worker-Owner may only be expelled from the Cooperative for cause by a vote of two-thirds of the worker owners but can appeal to be reinstated by a vote of at least two-thirds of the board, other than the Worker-Owner being expelled, at a duly called meeting at which a quorum is present, upon which the Ownership Interest of such Worker-Owner shall be terminated.
 
-#### B. Causes for Worker-Owner Expulsion or Suspension
+#### 2. Causes for Worker-Owner Expulsion or Suspension
 
-Notwithstanding anything herein to the contrary, cause for expulsion or suspension includes, without limitation:
+Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsion or suspension includes, without limitation:
   
+1. Not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
+2. If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);
+3. violating policies with staff or other Shareholders (with policies to be ratified by the board);
+4. Disclosing confidential or sensitive information about the Cooperative or its customers to unauthorized persons (with “confidential” and “sensitive” to be defined by the board);
+5. A new felony or serious misdemeanor conviction (with “serious” to be defined according to the judgment of the board);
+6. Being declared incapacitated by final order of a court;
+7. Using the Cooperative for personal financial gain in a manner that, either intentionally or accidentally, limits, hinders, detracts, or otherwise diminishes the overall capacity of the Cooperative to benefit the other members;
+8. Violating the Cooperative's board-approved code of ethics or any other written agreements; or
+9. Creating an unhealthy or dysfunctional workplace (as judged by the board).
+10. **Anything else??**
 
-   1. not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
-  2. frequently missed Shareholder or Board (if a Director) meetings;
-  3. violating policies with staff or other Shareholders;
-  4. disclosing confidential or sensitive information about the Cooperative to unauthorized persons;
-  5. a new felony or serious misdemeanor conviction;
-  6. being declared incapacitated by final order of a court;
-  7. Using the Cooperative for personal financial gain in a manner that, either intentionally or accidentally, limits, hinders, detracts, or otherwise diminishes the overall capacity of the Cooperative to benefit the other members;
-  8. violating the Cooperative's code of ethics or any other written agreements; or
-  9. creating an unhealthy or dysfunctional workplace through inappropriate behavior or disrespect.
 
-#### C. The Worker-Owner must be given 15 days prior written notice of the proposed expulsion or suspension and the reasons for that proposal to expel or suspend them.
+#### C. Due Process
 
-#### D. The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.
+1. Prior Notice
 
-#### E. Actual Notice Requirement
+The Worker-Owner must be given 15 days prior written notice of the proposed expulsion or suspension and the reasons for that proposal to expel or suspend them.
+
+2. Worker Owner Rights
+
+The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.
+
+3. Actual Notice Requirement
 
 Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.
 
-#### F. Expelled Worker-Owner and or Suspended Worker-Owner Liabilities
+4. Expelled Worker-Owner and or Suspended Worker-Owner Liabilities (**rewrite**)
  
 A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.
 
-#### G. The Cooperative’s Rights When Considering Matters of Worker-Owner Expulsion or Suspension
+5. The Cooperative’s Rights When Considering Matters of Worker-Owner Expulsion or Suspension (**rewrite**)
 
 The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.
 
