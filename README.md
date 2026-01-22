@@ -361,17 +361,17 @@ This section concerns how to make changes that would materially affect the right
 
 ### Increase quorum for meetings
 
-    III. Membership Meetings 
+Membership Meetings 
 
-    This section should address the details of annual (or periodic) general membership meetings. Such details may include:
+This section should address the details of annual (or periodic) general membership meetings. Such details may include:
 
-    a)    How often are regular membership meetings held?  How is the agenda compiled?  How is the time and location of the meeting announced?
+1. How often are regular membership meetings held?  How is the agenda compiled?  How is the time and location of the meeting announced?
 
-    b)    How are special membership meetings called?  How are special meetings announced?
+2. How are special membership meetings called?  How are special meetings announced?
 
-    c)    What decision-making process is used?  Consensus?  Modified consensus?  Majority vote?  What percentage of participants must vote in favor in order to approve a decision?  Do stand-asides affect the outcome?  Possible “majority” thresholds include 50% plus 1, 66%, 75%, and occasionally greater percentages.
+3. What decision-making process is used?  Consensus?  Modified consensus?  Majority vote?  What percentage of participants must vote in favor in order to approve a decision?  Do stand-asides affect the outcome?  Possible “majority” thresholds include 50% plus 1, 66%, 75%, and occasionally greater percentages.
 
-    d)   What number or percentage of members is needed for quorum?
+4. What number or percentage of members is needed for quorum?
 
 ## Distinction between Membership and Board Meetings
 
@@ -564,16 +564,16 @@ The board may, by resolution adopted by a majority of the number of directors th
 
 Matters will be discussed with the goal of seeking decision-making by consensus. If it becomes apparent that consensus cannot be reached on any matter, the members will vote on whether the issue should be tabled for future discussion and decision. If a decision cannot be made by consensus, the members shall vote on the matter,
 
-    - [ ] with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
+[ ] with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
 
-    - [ ] When the company has 10 or fewer employee-owners, new employee-owners must receive unanimous approval. This provision shall automatically sunset on January 20, 2029  [i.e., 3 years from adoption] unless renewed by unanimous vote.
+[ ] When the company has 10 or fewer employee-owners, new employee-owners must receive unanimous approval. 
+This provision shall automatically sunset on January 20, 2029  [i.e., 3 years from adoption] unless renewed by unanimous vote.
 
-    - [ ] When the company has 11-25 employee-owners, new employee-owners must receive approval from at least 85% of existing employee-owners.
+[ ] When the company has 11-25 employee-owners, new employee-owners must receive approval from at least 85% of existing employee-owners.
 
-    - [ ] When the company has 26 or more employee-owners, new employee-owners must receive approval from at least 75% of existing employee-owners.
+[ ] When the company has 26 or more employee-owners, new employee-owners must receive approval from at least 75% of existing employee-owners.
 
-    - [ ] unanimous minus one
-
+[ ] unanimous minus one
 
 ## ARTICLE VII: OFFICERS
 
