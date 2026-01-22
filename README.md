@@ -1,10 +1,21 @@
-# BYLAWS **unratified**
+# unratified BYLAWS
 
-## OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC
+## GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC
 
-This is a work in progress as of 1/19/2026
-basic approach borrowed from [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md) with various changes, additions, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws.
-NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.
+This is a **work in progress as of 1/22/2026**
+
+Basic approach borrowed from CODE HOOK COOPERATIVE, LLC [^1] with various changes, additions, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws.
+
+*NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.*
+
+## Comments from 1/22/26 steering committee
+
+1. We need to forground the decision making progress.
+2. We need to ensure that the methods for changing the bylaws are clear and legal and obvious.
+3. Questions: how do we square the voting methods with quorum especially considering the small of the company now, e.g, if 4 members constitute a quorum with 6 members and a vote is taken, and the operating rules specify "unanimous-minus-one" and one member votes Nay and three members vote Yea, which satisfies the "unanimous-minus-one" rule, does that vote, which constitutes only 1/2 of the overall members, still count as a quorom?
+Another way to ask this question is: how would a "unanimous-minus-one" method of voting affect how we define a quorom?
+
+No yelling rule to be added.
 
 ### Table of Contents *work in progress some links broken*
 
@@ -35,124 +46,93 @@ NOTE: any part of this document with "options" or empty checkboxes is to highlig
 
 ### ARTICLE I: ARTICLES OF INCORPORATION
 
-The aim is to **convert??** **form??** an existing business into a worker cooperative. The existing business is [GREEN MOUNTAIN INSULATED GLASS INC](https://bizfilings.vermont.gov/business/info)
+The aim is to:
 
-The converted/newly-formed business shall be named: **TBD**
+**convert??** an existing business into a worker cooperative, or
 
-Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN.
+**form??** a worker cooperative for the purposes of purchasing and operating an existing business?
 
-**These below articles are unfinished.**
+The existing business is GREEN MOUNTAIN INSULATED GLASS INC.
 
-Business Name
-    GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??**
+Link to [GREEN MOUNTAIN INSULATED GLASS INC 1/13/2026 Annual Report](https://drive.google.com/file/d/1Jy5rOU5DdvSl-EzuzrdnYAkLptUFy5BS/view?usp=drive_link)[^2]
 
-Business Type
-    Worker Cooperative Corporation
+#### Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN
 
-Election Type
-    TBD
+These below articles are **unfinished.**
 
-Record Number
-    TBD
+#### Vermont Secretary of State Procedures for Cooperatives Generally
 
-Business Status
-    TBD
+Online filing is not available for cooperatives. The filing process for a cooperative depends on the type. Please allow 7-10 business days for the processing of any filings received by mail. Detailed information and filing instructions for each type of cooperative follow these advisories:
 
-Principal Office (Street Address)
-    10 Ripley Road, Rutland, VT, 05701, USA
+We recommend that you consult with an attorney, accountant, or business advisor about which business structure is best for you.
 
-Mailing Address
-    10 Ripley Road, Rutland, VT, 05701, USA
+Under Vermont's “distinguishable in the record” standard, if the requested name is too similar to an already registered name, such that it would confuse the public as to whom they are dealing with, it will be rejected. All registrations are subject to [name availability rules](https://sos.vermont.gov/business-services/fees-statutes/business-name-rules/). To avoid conflicts, please [search our online database](https://bizfilings.vermont.gov/business/businesssearch) for your desired business name.
 
-Date of Formation
-    TBD
+##### Vermont Secretary of State Procedures for Worker Cooperative Corporation Specifically
 
-## Annual Report Information
+###### Worker Cooperative Corporation
 
-Report Status
-    TBD
+A profit corporation that elects to be governed as a worker cooperative under the provisions of [11 V.S.A. ch. 8](https://legislature.vermont.gov/statutes/chapter/11/008) to be commonly owned and managed by its workers and whose articles of incorporation include, a statement of such election.
 
-Reporting Period Opens
-TBD
+###### Filing Instructions
 
-Fiscal Year End Month
-    December
+To form a worker cooperative corporation, submit Articles of Incorporation, Articles of Amendment, or Restated Articles of Incorporation as either a [general or close corporation](https://sos.vermont.gov/business-services/business-filings/domestic-formation/profit-corporation/) in which the corporation elects to be a worker cooperative corporation.
 
-Business Purpose (NAICS Codes)
-    999999-Any Lawful Purpose
+*Existing corporations may become Worker Cooperative Corporations by filing Articles of Amendment or Restated Articles of Incorporation in which the corporation elects to be a worker cooperative corporation.*
 
-## Registered Agent Information
+##### Generic Articles of Incorporation
 
-Agent Name
-    TBD
+| ----------- | ----------- |
+| Business Name | GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??** |
+| Business Type | Worker Cooperative Corporation |
+| Election Type | |
+| Record Number | |
+| Business Status | |
+| Principal Office (Street Address) | 10 Ripley Road, Rutland, VT, 05701, USA |
+| Mailing Address | 10 Ripley Road, Rutland, VT, 05701, USA |
+| Date of Formation | |
 
-Agent Type
-    TBD
+##### Generic Annual Report Information
 
-Status
-    TBD
+| ----------- | ----------- |
+| Report Status | |
+| Reporting Period Opens | |
+| Fiscal Year End Month | December |
+| Business Purpose (NAICS Codes) | 999999-Any Lawful Purpose |
 
-Resignation Date
-    TBD
+##### Generic Registered Agent Information
 
-Registered Office (Street Address)
-    10 Ripley Road, Rutland, VT, 05701, USA
+| ----------- | ----------- |
+| Agent Name | |
+| Agent Type | |
+| Status | |
+| Resignation Date | |
+| Registered Office (Street Address) | 10 Ripley Road, Rutland, VT, 05701, USA |
+| Mailing Address | 10 Ripley Road, Rutland, VT, 05701, USA |
 
-Mailing Address
-    10 Ripley Road, Rutland, VT, 05701, USA
+##### Principal Information (5)
 
-## Principal Information (5)
-
-Name
-    TBD
-
-Capacity
-    Secretary
-
-Physical Address
-    TBD
-
-Mailing Address
-    TBD
-
-Name
-    TBD
-
-Capacity
-    President
-
-Physical Address
-    TBD
-
-Mailing Address
-    TBD
-
-Name
-    TBD
-Capacity
-    Incorporator
-Physical Address
-    TBD
-Mailing Address
-    TBD
-
-Name
-    TBD
-Capacity
-    Treasurer
-Physical Address
-    TBD
-Mailing Address
-    TBD
-
-Name
-    TBD
-Capacity
-    Director
-Physical Address
-    TBD
-Mailing Address
-    TBD
+| ----------- | ----------- |
+| Name | |
+| Capacity | Secretary |
+| Physical Address | |
+| Mailing Address | |
+| Name | |
+| Capacity | President |
+| Physical Address | |
+| Mailing Address | |
+| Name | |
+| Capacity | Incorporator |
+| Physical Address | |
+| Mailing Address | |
+| Name | |
+| Capacity | Treasurer |
+| Physical Address | |
+| Mailing Address | |
+| Name | |
+| Capacity | Director |
+| Physical Address | |
+| Mailing Address | |
 
 ———
 
@@ -174,11 +154,11 @@ To work cooperatively is to strike a balance between work that is profitable and
 
 ### C. DEFINITIONS
 
-We should add/subtract as needed them here. It will mess up the numbering, which will mess up the table of contents (which is already messed up so whatever).
+The Cooperative
 
-For example, we should be consistent in our use of "the cooperative" or "the company," and establish that norm here.
+The Company
 
-“Surplus” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to member labor.
+Surplus shall be defined as the excess of revenues over Expenses for a fiscal year attributable to member labor.
 
 “Profit” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to non-member labor.
 
@@ -789,3 +769,6 @@ The ICA Group presents legal forms and guidelines for creating a worker cooperat
 9. Articles of Incorporation
 10. Profit Margin
 11. Acid Test: The acid-test ratio, also called the quick ratio, is a metric that's used to determine whether a company is positioned to sell assets within 90 days to meet immediate expenses. Analysts generally believe that a business can pay its immediate expenses if the ratio is more than 1.0. It can't do so if it's less than 1.0.
+
+[^1]: See [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md)
+[^2]: Sourced from the State of [Vermont Secretary of State Business Filings website](https://bizfilings.vermont.gov/business/info)
