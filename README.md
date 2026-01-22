@@ -2,25 +2,20 @@
 
 ## OF GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC
 
->
-> This is a work in progress as of 1/19/2026
->
-> basic approach borrowed from [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md) with various changes, additions, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws.
->
->
-> NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.
->
+This is a work in progress as of 1/19/2026
+basic approach borrowed from [BYLAWS CODE HOOK COOPERATIVE, LLC](https://github.com/codehook-coop/BYLAWS/blob/main/README.md) with various changes, additions, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws.
+NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.
 
 ### Table of Contents *work in progress some links broken*
 
 - [Article I: Articles of Incorporation](#article-i-articles-of-incorporation)
-- [Article II: Purpose](#article-ii-purpose)
+<!-- - [Article II: Purpose](#article-ii-purpose) -->
   <!-- - [A. Mission Statement](#a-mission-statement) -->
 - [Article III: Membership](#article-iii-membership)
-  - [A. Classification of Members](#a-classification-of-members)
-  - [B. Membership Qualifications](#b-membership-qualifications)
-  - [C. Acceptance of Members](#c-acceptance-of-members)
-  - [D. Membership Resignation](#d-membership-resignation)
+  <!-- - [A. Classification of Members](#a-classification-of-members) -->
+  <!-- - [B. Membership Qualifications](#b-membership-qualifications) -->
+  <!-- - [C. Acceptance of Members](#c-acceptance-of-members) -->
+  <!-- - [D. Membership Resignation](#d-membership-resignation) -->
   <!-- - [ ] [E. Removal of Members Option 1](#e-removal-of-members-option-1) -->
   <!-- - [ ] [F. Removal of Members Option 2](#f-removal-of-members-option-2) -->
 <!-- - [Article III: Member Meetings](#article-iii-member-meetings) -->
@@ -43,9 +38,8 @@
 The aim is to **convert??** **form??** an existing business into a worker cooperative. The existing business is [GREEN MOUNTAIN INSULATED GLASS INC](https://bizfilings.vermont.gov/business/info)
 
 The converted/newly-formed business shall be named: **TBD**
->
-> Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN.
->
+
+Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN.
 
 **These below articles are unfinished.**
 
@@ -228,7 +222,7 @@ The company shall have one (1) class of members.
 
   - [ ] thirty-six months (6240 hours) for the company (The candidacy period);
 
-- Be voted in, as set forth in [Article III(B)](#b-member-voting), by the existing members following the candidacy period; and
+- Be voted in, as set forth in Article TBD, by the existing members following the candidacy period; and
 
 - Receiving a copy of the company’s Disclosure Statement, operating agreement, and a receipt
 
@@ -282,7 +276,7 @@ Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsio
   
 1. Not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
 
-2. If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than 
+2. If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than
 one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);
 
 3. violating policies with staff or other Shareholders (with policies to be ratified by the board);
@@ -361,7 +355,7 @@ This section concerns how to make changes that would materially affect the right
 
 ### Increase quorum for meetings
 
-Membership Meetings 
+Membership Meetings
 
 This section should address the details of annual (or periodic) general membership meetings. Such details may include:
 
@@ -559,14 +553,13 @@ The board may, by resolution adopted by a majority of the number of directors th
 
 7. The expenditure of corporate funds to support a nominee for director after there are more people nominated for director than can be elected.
 
-
 ## ARTICLE VI: PROCESS OF DECISION MAKING FOR ALL MEETINGS
 
 Matters will be discussed with the goal of seeking decision-making by consensus. If it becomes apparent that consensus cannot be reached on any matter, the members will vote on whether the issue should be tabled for future discussion and decision. If a decision cannot be made by consensus, the members shall vote on the matter,
 
 [ ] with a three-fourths vote required to carry any decision, except as otherwise provided in this operating agreement.
 
-[ ] When the company has 10 or fewer employee-owners, new employee-owners must receive unanimous approval. 
+[ ] When the company has 10 or fewer employee-owners, new employee-owners must receive unanimous approval.
 This provision shall automatically sunset on January 20, 2029  [i.e., 3 years from adoption] unless renewed by unanimous vote.
 
 [ ] When the company has 11-25 employee-owners, new employee-owners must receive approval from at least 85% of existing employee-owners.
