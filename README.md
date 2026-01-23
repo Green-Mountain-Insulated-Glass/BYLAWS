@@ -1,21 +1,50 @@
 # unratified BYLAWS
 
-## GREEN MOUNTAIN INSULATED GLASS COOPERATIVE, INC
+## GMIG CO-OP, INC
 
 This is a **work in progress as of 1/22/2026**
 
-Basic approach borrowed from CODE HOOK COOPERATIVE, LLC [^1] with various changes, additions, deletions, expansions, etc. pulling from numerous online resources dedicated to worker co-op bylaws.
+>
+> To current employees: Bring any and all thoughts on bylaws, hopes, concerns, questions, notions, etc. Bylaws have certain basic requirements but there is a lot of room for aspirations, creativity, kill switches, dead hands, flights of poetic ambition, hyper-specific weirdness, or just plain boring details. Or simplicity. But I know folks have longstanding concerns/visions that we should attempt to include. Likewise, there are unspoken cultural norms that take for granted but that we might want to specify (like the permissive PTO policy).
+>
 
-*NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains; the final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.*
+<!-- Basic approach borrowed from CODE HOOK COOPERATIVE, LLC [^1]. -->
+
+*NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains.*
+
+*The final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.*
 
 ## Comments from 1/22/26 steering committee
 
 1. We need to forground the decision making progress.
+
 2. We need to ensure that the methods for changing the bylaws are clear and legal and obvious.
+
 3. Questions: how do we square the voting methods with quorum especially considering the small of the company now, e.g, if 4 members constitute a quorum with 6 members and a vote is taken, and the operating rules specify "unanimous-minus-one" and one member votes Nay and three members vote Yea, which satisfies the "unanimous-minus-one" rule, does that vote, which constitutes only 1/2 of the overall members, still count as a quorom?
+
 Another way to ask this question is: how would a "unanimous-minus-one" method of voting affect how we define a quorom?
 
-No yelling rule to be added.
+No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassionately.
+
+## Plan from 1/23/26 zoom meeting with A.W.
+
+1. Ask owners to clarify their April "deadline."
+
+2. Contact the Silva Group to discuss a re-valuation and/or,
+
+3. Contact N.S. @ SBDC to discuss a re-valuation.
+
+4. Don't worry (yet) about a lawyer or about paying for anything (yet).
+
+5. Do make a Business Plan.
+
+6. Standing schedule: Wednesday's @ 10:30 AM. Be sure to equip as many as possible with laptops/devices to better facilitate the virtual meeting.
+
+7. Get A.W. caught up by sending:
+
+        [ ] bylaws as they exist
+        [ ] everyone's email
+        [x] identify the primary contact
 
 ### Table of Contents *work in progress some links broken*
 
@@ -45,12 +74,6 @@ No yelling rule to be added.
   - [Glossary](#glossary)
 
 ### ARTICLE I: ARTICLES OF INCORPORATION
-
-The aim is to:
-
-**convert??** an existing business into a worker cooperative, or
-
-**form??** a worker cooperative for the purposes of purchasing and operating an existing business?
 
 The existing business is GREEN MOUNTAIN INSULATED GLASS INC.
 
@@ -82,59 +105,89 @@ To form a worker cooperative corporation, submit Articles of Incorporation, Arti
 
 ##### Generic Articles of Incorporation
 
-| ----------- | ----------- |
-| Business Name | GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??** |
-| Business Type | Worker Cooperative Corporation |
-| Election Type | |
-| Record Number | |
-| Business Status | |
-| Principal Office (Street Address) | 10 Ripley Road, Rutland, VT, 05701, USA |
-| Mailing Address | 10 Ripley Road, Rutland, VT, 05701, USA |
-| Date of Formation | |
+- Business Name: GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??**
+
+- Business Type: Worker Cooperative Corporation
+
+- Election Type:
+
+- Record Number:
+
+- Business Status:
+
+- Principal Office (Street Address): 10 Ripley Road, Rutland, VT, 05701, USA
+
+- Mailing Address: 10 Ripley Road, Rutland, VT, 05701, USA
+
+- Date of Formation:
 
 ##### Generic Annual Report Information
 
-| ----------- | ----------- |
-| Report Status | |
-| Reporting Period Opens | |
-| Fiscal Year End Month | December |
-| Business Purpose (NAICS Codes) | 999999-Any Lawful Purpose |
+- Report Status:
+
+- Reporting Period Opens:
+
+- Fiscal Year End Month: December
+
+- Business Purpose (NAICS Codes): 999999-Any Lawful Purpose
 
 ##### Generic Registered Agent Information
 
-| ----------- | ----------- |
-| Agent Name | |
-| Agent Type | |
-| Status | |
-| Resignation Date | |
-| Registered Office (Street Address) | 10 Ripley Road, Rutland, VT, 05701, USA |
-| Mailing Address | 10 Ripley Road, Rutland, VT, 05701, USA |
+- Agent Name:
+
+- Agent Type:
+
+- Status:
+
+- Resignation Date:
+
+- Registered Office (Street Address): 10 Ripley Road, Rutland, VT, 05701, USA
+
+- Mailing Address: 10 Ripley Road, Rutland, VT, 05701, USA
 
 ##### Principal Information (5)
 
-| ----------- | ----------- |
-| Name | |
-| Capacity | Secretary |
-| Physical Address | |
-| Mailing Address | |
-| Name | |
-| Capacity | President |
-| Physical Address | |
-| Mailing Address | |
-| Name | |
-| Capacity | Incorporator |
-| Physical Address | |
-| Mailing Address | |
-| Name | |
-| Capacity | Treasurer |
-| Physical Address | |
-| Mailing Address | |
-| Name | |
-| Capacity | Director |
-| Physical Address | |
-| Mailing Address | |
+- Name:
 
-———
+- Capacity: Secretary
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: President
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: Incorporator
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: Treasurer
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: Director
+
+- Physical Address:
+
+- Mailing Address:
+
+----------------------------------
 
 In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
 
@@ -150,7 +203,7 @@ The company is democratically controlled and is not organized to make a profit f
 
 ### B. Cooperative Purpose
 
-To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
+To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of a changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
 
 ### C. DEFINITIONS
 
