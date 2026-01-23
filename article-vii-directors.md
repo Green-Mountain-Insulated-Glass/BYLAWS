@@ -1,6 +1,6 @@
-## ARTICLE VII: DIRECTORS
+# ARTICLE VII: DIRECTORS
 
-### A. Directors and Board Composition
+## A. Directors and Board Composition
 
 All members of the corporation shall serve on the board of directors and no person other than the members of the corporation shall serve on the board of directors (except as provided in the following paragraph).
 
@@ -10,7 +10,7 @@ Should the number of members ever exceed forty, the members shall immediately me
 
 **Meetings of the members in their capacity as the board of directors shall be governed by this [Article IV](#article-iv-directors). Meetings of the members in their capacity as members shall be governed by Article III.**
 
-### B. Terms of Office
+## B. Terms of Office
 
 The term of office of the directors shall be one year.
 
@@ -18,23 +18,23 @@ Each director, including a director elected to fill a vacancy, shall hold office
 
 Notwithstanding the foregoing, a person whose membership is terminated shall immediately cease to be a director of the corporation.
 
-### C. Voting
+## C. Voting
 
 The vote of a three fourths majority of the directors present at a duly called and noticed meeting at which a quorum is present is the act of the board. 
 
-### D. Notice of Board Meetings
+## D. Notice of Board Meetings
 
 Regular meetings will be held the first Thursday of every month at 11:00 AM at the principal office of the corporation. If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next business day. 
 
 Special meetings of the board shall be held upon four days’ notice by first-class mail or 48 hours’ notice delivered personally, by telephone, including a voice messaging system, or by electronic transmission by the corporation. A notice, or waiver of notice, need not specify the purpose of any regular or special meeting of the board.
 
-### E. Waiver of Notice 
+## E. Waiver of Notice 
 
 Notice of a meeting need not be given to any director who provides a waiver of notice or consent to holding the meeting or an approval of the minutes thereof in writing, whether before or after the meeting, or who attends the meeting without protesting, prior thereto or at its commencement, the lack of notice to that director.
 
 All waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meetings.
 
-### F. Participation by Electronic Transmission
+## F. Participation by Electronic Transmission
 
 Members of the board may participate in a meeting through use of conference telephone, electronic video screen communication, or electronic transmission by and to the corporation. Participation in a meeting through use of conference telephone or electronic video screen communication pursuant to this section constitutes presence in person at that meeting as long as all members participating in the meeting are able to hear one another.
 
@@ -43,23 +43,23 @@ Participation in a meeting through use of electronic transmission by and to the 
 1. Each director participating in the meeting can communicate with all of the other members concurrently; and
 2. Each director is provided the means of participating in all matters before the board, including, without limitation, the capacity to propose, or to interpose an objection to, a specific action to be taken by the corporation.
 
-### G. Quorum
+## G. Quorum
 
 A majority of the number of directors then in office constitutes a quorum of the board for the transaction of business.
 
 A meeting at which a quorum is initially present may continue to transact business notwithstanding the withdrawal of directors if any action taken is approved by at least a majority of the required quorum for the meeting, or a greater number as is required by the articles or operating agreement.
 
-### H. Adjournment
+## H. Adjournment
 
 A majority of the directors present, whether or not a quorum is present, may adjourn any meeting to another time and place. If the meeting is adjourned for more than 24 hours, notice of any adjournment to another time or place shall be given prior to the time of the adjourned meeting to the directors who were not present at the time of the adjournment.
 
-### I. Action Without a Meeting
+## I. Action Without a Meeting
 
 Any action required or permitted to be taken by the board may be taken without a meeting, if all members of the board shall individually or collectively consent in writing to such action. Such written consent or consents shall be filed with the minutes of the proceedings of the board.
 
 The action by written consent shall have the same force and effect as a unanimous vote of the directors.
 
-### J. Board Vacancies
+## J. Board Vacancies
 
 Given that all members constitute the board, vacancies will not occur on the board. Therefore, this section applies only if the provision requiring that all members constitute the board is amended to provide for election of directors (or if there are fewer than three members).
 
@@ -73,11 +73,11 @@ Vacancies occurring on the board by reason of the removal of directors may be fi
 
 The members may elect a director at any time to fill any vacancy not filled by the directors.
 
-### K. Resignation
+## K. Resignation
 
 So long as all members constitute the board, the only way that a director may resign is by ceasing to be a member (or if there are fewer than three members). Should the provision by which all members constitute the board be amended, any director may resign effective upon giving written notice to the president, the secretary, or the board of directors of the corporation, unless the notice specifies a later time for the effectiveness of such resignation. If the resignation is effective at a future time, a successor may be elected to take office when the resignation becomes effective.
 
-### L. Removal
+## L. Removal
 
 So long as all members constitute the board, directors may not be removed except if they cease to be members. Should the provision by which all members constitute the board be amended, any or all directors may be removed without cause by the members.
 
