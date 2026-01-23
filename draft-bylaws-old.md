@@ -1,6 +1,6 @@
-# unratified BYLAWS
+# GMIG CO-OP INC
 
-## GMIG CO-OP, INC
+## unratified BYLAWS
 
 This is a **work in progress as of 1/22/2026**
 
@@ -26,7 +26,7 @@ Another way to ask this question is: how would a "unanimous-minus-one" method of
 
 No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassionately.
 
-## Plan from 1/23/26 zoom meeting with A.W.
+## Plan from 1/23/26 zoom meeting with AW
 
 1. Ask owners to clarify their April "deadline."
 
@@ -45,33 +45,6 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
         [ ] bylaws as they exist
         [ ] everyone's email
         [x] identify the primary contact
-
-### Table of Contents *work in progress some links broken*
-
-- [Article I: Articles of Incorporation](#article-i-articles-of-incorporation)
-<!-- - [Article II: Purpose](#article-ii-purpose) -->
-  <!-- - [A. Mission Statement](#a-mission-statement) -->
-- [Article III: Membership](#article-iii-membership)
-  <!-- - [A. Classification of Members](#a-classification-of-members) -->
-  <!-- - [B. Membership Qualifications](#b-membership-qualifications) -->
-  <!-- - [C. Acceptance of Members](#c-acceptance-of-members) -->
-  <!-- - [D. Membership Resignation](#d-membership-resignation) -->
-  <!-- - [ ] [E. Removal of Members Option 1](#e-removal-of-members-option-1) -->
-  <!-- - [ ] [F. Removal of Members Option 2](#f-removal-of-members-option-2) -->
-<!-- - [Article III: Member Meetings](#article-iii-member-meetings) -->
-- [Article IV: Directors](#article-iv-directors)
-- [Article V: Committees](#article-v-committees)
-- [Article VI: Process of Decision Making For All Meetings](#article-vi-process-of-decision-making-for-all-meetings)
-- [Article VII: Officers](#article-vii-officers)
-- [Article VIII: Allocations and Distributions](#article-viii-allocations-and-distributions)
-- [Article IX: Checks and Contracts](#article-ix-checks-and-contracts)
-- [Article X: Transfer of Memebership](#article-x-transfer-of-memberships)
-- [Article XI: Records](#article-xi-records)
-- [Article XII: Indemnification](#article-xii-indemnification)
-- [Article XIII: Operating Agreement Amendment](#article-xiii-operating-agreement-amendment)
-- [Resources](#resources)
-  - [Bylaw Samples](#bylaw-samples)
-  - [Glossary](#glossary)
 
 ### ARTICLE I: ARTICLES OF INCORPORATION
 
@@ -649,8 +622,6 @@ The chief financial officer will (1)deposit corporate funds and other valuables 
 
 The chief financial officer will be deemed to be the treasurer for purposes of giving any reports or executing any certificates or other documents.
 
-
-
 ## ARTICLE IX: CHECKS AND CONTRACTS
 
 ### A. Authorized Signatories for Checks
@@ -697,4 +668,3 @@ The corporation shall have power to indemnify its officers, directors, employees
 ## ARTICLE XIII: OPERATING AGREEMENT AMENDMENT
 
 Operating agreement may be adopted, amended, or repealed by approval of 75% of the members.
-

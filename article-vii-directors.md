@@ -8,7 +8,7 @@ The number of directors shall be not less than three or more than forty with the
 
 Should the number of members ever exceed forty, the members shall immediately meet to amend the operating agreement to require that the board be elected from among the members.
 
-**Meetings of the members in their capacity as the board of directors shall be governed by this [Article IV](#article-iv-directors). Meetings of the members in their capacity as members shall be governed by Article III.**
+**Meetings of the members in their capacity as the board of directors shall be governed by this Article TBD. Meetings of the members in their capacity as members shall be governed by Article TBD.**
 
 ## B. Terms of Office
 
@@ -20,15 +20,15 @@ Notwithstanding the foregoing, a person whose membership is terminated shall imm
 
 ## C. Voting
 
-The vote of a three fourths majority of the directors present at a duly called and noticed meeting at which a quorum is present is the act of the board. 
+The vote of a three fourths majority of the directors present at a duly called and noticed meeting at which a quorum is present is the act of the board.
 
 ## D. Notice of Board Meetings
 
-Regular meetings will be held the first Thursday of every month at 11:00 AM at the principal office of the corporation. If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next business day. 
+Regular meetings will be held the first Thursday of every month at 11:00 AM at the principal office of the corporation. If the day fixed for the regular meeting falls on a legal holiday, the meeting shall be held at the same time and place on the next business day.
 
 Special meetings of the board shall be held upon four days’ notice by first-class mail or 48 hours’ notice delivered personally, by telephone, including a voice messaging system, or by electronic transmission by the corporation. A notice, or waiver of notice, need not specify the purpose of any regular or special meeting of the board.
 
-## E. Waiver of Notice 
+## E. Waiver of Notice
 
 Notice of a meeting need not be given to any director who provides a waiver of notice or consent to holding the meeting or an approval of the minutes thereof in writing, whether before or after the meeting, or who attends the meeting without protesting, prior thereto or at its commencement, the lack of notice to that director.
 

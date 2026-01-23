@@ -1,21 +1,12 @@
 # Article V: Membership Meetings
 
-This section should address the details of annual (or periodic) general membership meetings. Such details may include:
-
-How often are regular membership meetings held?  How is the agenda compiled?  How is the time and location of the meeting announced?
-
-    b)    How are special membership meetings called?  How are special meetings announced?
-
-    c)    What decision-making process is used?  Consensus?  Modified consensus?  Majority vote?  What percentage of participants must vote in favor in order to approve a decision?  Do stand-asides affect the outcome?  Possible “majority” thresholds include 50% plus 1, 66%, 75%, and occasionally greater percentages.
-
-    d)   What number or percentage of members is needed for quorum?
-    
+This section addresses the details of annual general membership meetings.
 
 ## A. Distinction between Membership and Board Meetings
 
-**Meetings of the members in their capacity as members shall be governed by this Article III.**
+**Meetings of the members in their capacity as members shall be governed by this Article TBD.**
 
-**Meetings of the members in their capacity as the board of directors shall be governed by Article IV.**
+**Meetings of the members in their capacity as the board of directors shall be governed by Article TBD.**
 
 ## B. Member Voting
 
@@ -33,7 +24,7 @@ Unless otherwise specified, all votes shall be conducted using the procedures in
 
 ## C. Annual Meeting
 
-An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day. 
+An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.
 
 In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three). Any other proper business may be transacted at the meeting.
 
@@ -43,7 +34,7 @@ Special meetings of members for any lawful purpose may be called by the board, t
 
 ## E. Participation by Electronic Communications
 
-If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation. 
+If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation.
 
 Any request by the company to a member for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member, the meeting shall be held at a physical location.
 
@@ -61,7 +52,7 @@ Notwithstanding the foregoing, any of the following decisions, other than by una
 - Amendment of the articles of incorporation; and
 - Approval of a plan of distribution upon winding up of the corporation.
 
-Notice of a members’ meeting or any report shall be given personally, by electronic transmission by the corporation, or by mail or other means of written communication, addressed to a member at the address of such member appearing on the books of the corporation or given by the member to the corporation for purpose of notice; or if no such address appears or is given, at the place where the principal office of the corporation is located or by publication at least once in a newspaper of general circulation in the county in which the principal office is located. 
+Notice of a members’ meeting or any report shall be given personally, by electronic transmission by the corporation, or by mail or other means of written communication, addressed to a member at the address of such member appearing on the books of the corporation or given by the member to the corporation for purpose of notice; or if no such address appears or is given, at the place where the principal office of the corporation is located or by publication at least once in a newspaper of general circulation in the county in which the principal office is located.
 
 If any notice or report addressed to the member at the address of such member appearing on the books of the corporation is returned to the corporation by the United States Postal Service marked to indicate the United States Postal Service is unable to deliver the notice or report to the member at such address, all future notices or reports shall be deemed to have been duly given without further mailing if the same shall be available for the member upon written demand of the member at the principal office of the corporation for a period of one year from the date of the giving of the notice or report to all other members.
 
@@ -72,9 +63,9 @@ Notice shall not be given by electronic transmission by the corporation under th
 
 ## G. Waiver of Notice
 
-The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting. 
+The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.
 
-Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting. 
+Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting.
 
 Neither the business to be transacted at nor the purpose of any regular or special meeting of members need be specified in any written waiver of notice, consent to the holding of the meeting, or approval of the minutes thereof.
 

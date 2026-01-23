@@ -15,4 +15,3 @@ The board may, by resolution adopted by a majority of the number of directors th
 6. The appointment of committees of the board or the members thereof; and
 
 7. The expenditure of corporate funds to support a nominee for director after there are more people nominated for director than can be elected.
-
