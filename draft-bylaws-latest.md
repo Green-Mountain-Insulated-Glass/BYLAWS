@@ -46,23 +46,23 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
         [ ] everyone's email
         [x] identify the primary contact
 
-- [ARTICLE I: ARTICLES OF INCORPORATION](ARTICLE-I-ARTICLES-OF-INCORPORATION)
-- [ARTICLE II: PURPOSE](ARTICLE-II-PURPOSE)
-- [ARTICLE III: DEFINITIONS](ARTICLE-III-DEFINITIONS)
-- [ARTICLE IV: PROCESS OF DECISION MAKING](ARTICLE-IV-PROCESS-OF-DECISION-MAKING)
-- [ARTICLE V: MEMBERSHIP](ARTICLE-V-MEMBERSHIP)
-- [Article V: Membership Meetings](Article-V-Membership-Meetings)
-- [ARTICLE VII: DIRECTORS](ARTICLE-VII-DIRECTORS)
-- [ARTICLE VIII: ALLOCATIONS AND DISTRIBUTIONS](ARTICLE-VIII-ALLOCATIONS-AND-DISTRIBUTIONS)
-- [ARTICLE VIII: COMMITTEES](ARTICLE-VIII-COMMITTEES)
-- [ARTICLE IX: CHECKS AND CONTRACTS](ARTICLE-IX-CHECKS-AND-CONTRACTS)
-- [ARTICLE X: TRANSFER OF MEMBERSHIPS](ARTICLE-X-TRANSFER-OF-MEMBERSHIPS)
-- [ARTICLE XI: RECORDS](ARTICLE-XI-RECORDS)
-- [ARTICLE XII: INDEMNIFICATION](ARTICLE-XII-INDEMNIFICATION)
-- [ARTICLE XIII: OPERATING AGREEMENT AMENDMENT](ARTICLE-XIII-OPERATING-AGREEMENT-AMENDMENT)
-- [Appendix 1: Glossary](Appendix-1-Glossary)
-- [Appendix 2: Questions to Consider](Appendix-2-Questions-to-Consider)
-- [Appendix 3: Resources](Appendix-3-Resources)
+- [ARTICLE I: ARTICLES OF INCORPORATION](article-i-articles-of-incorporation)
+- [ARTICLE II: PURPOSE](article-ii-purpose)
+- [ARTICLE III: DEFINITIONS](article-iii-definitions)
+- [ARTICLE IV: PROCESS OF DECISION MAKING](article-iv-process-of-decision-making)
+- [ARTICLE V: MEMBERSHIP](article-v-membership)
+- [ARTICLE V: MEMBERSHIP MEETINGS](article-v-membership-meetings)
+- [ARTICLE VII: DIRECTORS](article-vii-directors)
+- [ARTICLE VIII: ALLOCATIONS AND DISTRIBUTIONS](article-viii-allocations-and-distributions)
+- [ARTICLE VIII: COMMITTEES](article-viii-committees)
+- [ARTICLE IX: CHECKS AND CONTRACTS](article-ix-checks-and-contracts)
+- [ARTICLE X: TRANSFER OF MEMBERSHIPS](article-x-transfer-of-memberships)
+- [ARTICLE XI: RECORDS](article-xi-records)
+- [ARTICLE XII: INDEMNIFICATION](article-xii-indemnification)
+- [ARTICLE XIII: OPERATING AGREEMENT AMENDMENT](article-xiii-operating-agreement-amendment)
+- [Appendix 1: Glossary](appendix-1-glossary)
+- [Appendix 2: Questions to Consider](appendix-2-questions-to-consider)
+- [Appendix 3: Resources](appendix-3-resources)
 
 ## ARTICLE I: ARTICLES OF INCORPORATION
 
@@ -396,7 +396,7 @@ This section concerns how to make changes that would materially affect the right
 
 #### Increase quorum for meetings
 
-## Article V: Membership Meetings
+## ARTICLE V: MEMBERSHIP MEETINGSs
 
 This section addresses the details of annual general membership meetings.
 
