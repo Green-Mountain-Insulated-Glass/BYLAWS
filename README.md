@@ -40,8 +40,6 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
 
 ## GMIG CO-OP INC unratified ByLaws
 
-This is a **work in progress as of 1/24/2026**
-
 - [ARTICLE I: ARTICLES OF INCORPORATION](#article-i-articles-of-incorporation)
 - [ARTICLE II: PURPOSE](#article-ii-purpose)
 - [ARTICLE III: DEFINITIONS](#article-iii-definitions)
@@ -136,7 +134,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 
 "The Special Unanimous Approval Rule For Accepting New Employee-Owners" is as follows:
 
-    If the company has 10 or fewer employee-owners, the motion to accept new employee-owners must receive unanimous approval from all members eligible to vote.
+- If the company has 10 or fewer employee-owners, the motion to accept new employee-owners must receive unanimous approval from all members eligible to vote.
 
 If the company has more than ten employee-owners, the worker-owners must, at the annual meeting, vote to to approve or reject "The Special Unanimous Approval Rule For Accepting New Employee-Owners".
 
@@ -152,7 +150,7 @@ If this motion to adopt a new rule is seconded, it must receive unanimous approv
 
 If no motion to adopt a new rule regarding the voting process for accepting new employee-owners has been made or if a motion has been made but fails to receive unanimous approval, and if no other motions are made, any member may "call the question". Upon calling the question, that member moves to adopt "The Backup Rule for Accepting New Employee-Owners" which shall be:
 
-    The vote to accept new employee-owners must receive 85% approval from all members eligible to vote.
+- The vote to accept new employee-owners must receive 85% approval from all members eligible to vote.
 
 "The Backup Rule for Accepting New Employee-Owners" requires a majority of votes to pass.
 
@@ -160,7 +158,7 @@ If no motion to adopt a new rule regarding the voting process for accepting new 
   
 Failure to pass "The Backup Rule for Accepting New Employee-Owners" establishes "The Default Rule for Accepting New Employee-Owners" which shall be:
 
-    The vote to accept new employee-owners must receive 75% approval from all members eligible to vote. This motion passes automatically unless and until the ByLaws have been modified to change this process.
+- The vote to accept new employee-owners must receive 75% approval from all members eligible to vote. This motion passes automatically unless and until the ByLaws have been modified to change this process.
 
 ## ARTICLE V: MEMBERSHIP
 
@@ -295,12 +293,6 @@ Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsio
 ### J. Operating Agreement Changes
 
 *This section concerns how to make changes that would materially affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital, including:*
-
-#### ?? Increase or decrease the number of members authorized in total or for any class
-
-#### ?? Effect an exchange, reclassification, or cancellation of all or part of the companies memberships
-
-#### ?? Authorize a new class of membership
 
 #### Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number
 
