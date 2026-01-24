@@ -6,7 +6,7 @@
 
 ## Comments from 1/22/26 steering committee
 
-1. We need to forground the decision making progress.
+1. We need to foreground the decision making progress.
 
 2. We need to ensure that the methods for changing the Bylaws are clear and legal.
 
@@ -14,7 +14,7 @@
 
     - if 4 members constitute a quorum with 6 members and a vote is taken, and the operating rules specify "unanimous-minus-one" and one member votes Nay and three members vote Yea, which satisfies the "unanimous-minus-one" rule, does that vote, which constitutes only 1/2 of the overall members, still count as a quorom?
 
-    - Another way to ask this question is: how would a "unanimous-minus-one" method of voting affect how we define a quorom?
+    - Another way to ask this question is: how would a "unanimous-minus-one" method of voting affect how we define a quorum?
 
 4. No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassionately.
 
@@ -80,7 +80,7 @@ The company is democratically controlled and is not organized to make a profit f
 
 ### B. Cooperative Purpose
 
-To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These Bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
+To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing markets by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These Bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
 
 ## ARTICLE III: DEFINITIONS
 
@@ -102,7 +102,7 @@ If a decision cannot be made by consensus, the matter shall be worded as a motio
 
   2. The motion in question passes if it is rejected by one or fewer (i.e., zero) votes.
 
-  3. The motion in question fails it is rejected by more than one vote.
+  3. The motion in question fails if it is rejected by more than one vote.
 
 ### Conflict of Interest Rule
 
@@ -140,7 +140,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 
 - If the company has 10 or fewer employee-owners, the motion to accept new employee-owners must receive unanimous approval from all members eligible to vote.
 
-If the company has more than ten employee-owners, the worker-owners must, at the annual meeting, vote to to approve or reject "The Special Unanimous Approval Rule For Accepting New Employee-Owners".
+If the company has more than ten employee-owners, the worker-owners must, at the annual meeting, vote to approve or reject "The Special Unanimous Approval Rule For Accepting New Employee-Owners".
 
 "The Special Unanimous Approval Rule For Accepting New Employee-Owners" requires a unanimous vote to pass.
 
@@ -238,7 +238,7 @@ Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsio
 
     [ ] something else entirely??
 
-2. (*Wordy*) If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);
+2. (*Wordy*) If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year / over the course of a given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);
 
 3. Violating board-approved policies;
 
@@ -476,7 +476,7 @@ The board may, by resolution adopted by a majority of the number of directors th
 
 ### A. Authorized Signatories for Checks
 
-All checks, drafts, other orders for payment of money, notes, or other evidences of indebtedness issued in the name of or payable to the corporation will be signed or endorsed by the person or persons in the manner authorized from time to time by resolution of the board of directors.
+All checks, drafts, other orders for payment of money, notes, or other evidence of indebtedness issued in the name of or payable to the corporation will be signed or endorsed by the person or persons in the manner authorized from time to time by resolution of the board of directors.
 
 ### B. Executing Corporate Contracts and Instruments
 
@@ -666,7 +666,7 @@ Under Vermont's “distinguishable in the record” standard, if the requested n
 
 ##### Worker Cooperative Corporation
 
-A profit corporation that elects to be governed as a worker cooperative under the provisions of [11 V.S.A. ch. 8](https://legislature.vermont.gov/statutes/chapter/11/008) to be commonly owned and managed by its workers and whose articles of incorporation include, a statement of such election.
+A profit corporation that elects to be governed as a worker cooperative under the provisions of [11 V.S.A. ch. 8](https://legislature.vermont.gov/statutes/chapter/11/008) to be commonly owned and managed by its workers and whose articles of incorporation include a statement of such election.
 
 ##### Filing Instructions
 
