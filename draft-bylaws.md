@@ -2,13 +2,7 @@
 
 ## unratified ByLaws
 
-This is a **work in progress as of 1/22/2026**
-
->
-> To current employees: Bring any and all thoughts on ByLaws, hopes, concerns, questions, notions, etc. Bylaws have certain basic requirements but there is a lot of room for aspirations, creativity, kill switches, dead hands, flights of poetic ambition, hyper-specific weirdness, or just plain boring details. Or simplicity. But I know folks have longstanding concerns/visions that we should attempt to include. Likewise, there are unspoken cultural norms that take for granted but that we might want to specify (like the permissive PTO policy).
->
-
-<!-- Basic approach borrowed from CODE HOOK COOPERATIVE, LLC [^1]. -->
+This is a **work in progress as of 1/24/2026**
 
 *NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains.*
 
@@ -68,144 +62,27 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
 
 ## STATUS OF THIS DOCUMENT
 
-This document is a very rough draft. We intentionally sought reference outside of the ICA Model ByLaws because:
+This README contains the rough outline of the structure. Only the text we have worked on is included in the README. The draft-bylaws contain a lot of boilerplate to remind our future selves about what else we might need to think about. Boilerplate and/or under-considered parts are *italicized*.
 
-1. The ICA Model ByLaws are probably out of date and,
-2. Even if they aren't out of date, they are the official recommendation which means whatever we produce will ineevitably bend toward them anyway so we should start somewehre else.
+## NOTES ABOUT THE ICA MODEL BYLAWS
 
-About half of this document is a boilerplate placeholder designed to remind our future selves to not forget about such-and-such. For readers well versed and opinionated about ByLaws, these boilerplate sections are probably distressingly generic. Sorry about that, but to help differentiate the unexplored hinterlands of copy-paste boilerplate from meaty content, the boilerplate is ~struck through~.
+We intentionally sought reference outside of the ICA Model ByLaws because the ICA Model ByLaws are 20+ years old. Parts must surely be out of date and, even if it turns out they have stood the test of time, they are the official recommendation ... which means whatever we produce will eventually, inevitably bend toward them anyway.
 
-The other half is only partially revised. The parts that we haven't given sufficient attention to but probably should are *italicized*.
-
-None of us is willing to die on the hill of any part of these ByLaws because they are purely rough draft / initial thoughts. None of this has been voted on internally. All of it is subject to edits, rewording, revisions, excisions, expansion, etc.
+None of this has been voted on internally. All of it is subject to edits, rewording, revisions, excisions, expansion, etc.
 
 ## ARTICLE I: ARTICLES OF INCORPORATION
 
-~The existing business is GREEN MOUNTAIN INSULATED GLASS INC.
+*The existing business is GREEN MOUNTAIN INSULATED GLASS INC.*
 
-Link to [GREEN MOUNTAIN INSULATED GLASS INC 1/13/2026 Annual Report](https://drive.google.com/file/d/1Jy5rOU5DdvSl-EzuzrdnYAkLptUFy5BS/view?usp=drive_link)[^2]
-
-### Whether the worker cooperative must first incorporate before the conversion or if the conversion enacts the incorporation is currently UNKNOWN
-
-These below articles are **unfinished.**
-
-### Vermont Secretary of State Procedures for Cooperatives Generally
-
-Online filing is not available for cooperatives. The filing process for a cooperative depends on the type. Please allow 7-10 business days for the processing of any filings received by mail. Detailed information and filing instructions for each type of cooperative follow these advisories:
-
-We recommend that you consult with an attorney, accountant, or business advisor about which business structure is best for you.
-
-Under Vermont's “distinguishable in the record” standard, if the requested name is too similar to an already registered name, such that it would confuse the public as to whom they are dealing with, it will be rejected. All registrations are subject to [name availability rules](https://sos.vermont.gov/business-services/fees-statutes/business-name-rules/). To avoid conflicts, please [search our online database](https://bizfilings.vermont.gov/business/businesssearch) for your desired business name.
-
-#### Vermont Secretary of State Procedures for Worker Cooperative Corporation Specifically
-
-##### Worker Cooperative Corporation
-
-A profit corporation that elects to be governed as a worker cooperative under the provisions of [11 V.S.A. ch. 8](https://legislature.vermont.gov/statutes/chapter/11/008) to be commonly owned and managed by its workers and whose articles of incorporation include, a statement of such election.
-
-##### Filing Instructions
-
-To form a worker cooperative corporation, submit Articles of Incorporation, Articles of Amendment, or Restated Articles of Incorporation as either a [general or close corporation](https://sos.vermont.gov/business-services/business-filings/domestic-formation/profit-corporation/) in which the corporation elects to be a worker cooperative corporation.
-
-*Existing corporations may become Worker Cooperative Corporations by filing Articles of Amendment or Restated Articles of Incorporation in which the corporation elects to be a worker cooperative corporation.*
-
-#### Generic Articles of Incorporation
-
-- Business Name: GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??**
-
-- Business Type: Worker Cooperative Corporation
-
-- Election Type:
-
-- Record Number:
-
-- Business Status:
-
-- Principal Office (Street Address): 10 Ripley Road, Rutland, VT, 05701, USA
-
-- Mailing Address: 10 Ripley Road, Rutland, VT, 05701, USA
-
-- Date of Formation:
-
-#### Generic Annual Report Information
-
-- Report Status:
-
-- Reporting Period Opens:
-
-- Fiscal Year End Month: December
-
-- Business Purpose (NAICS Codes): 999999-Any Lawful Purpose
-
-#### Generic Registered Agent Information
-
-- Agent Name:
-
-- Agent Type:
-
-- Status:
-
-- Resignation Date:
-
-- Registered Office (Street Address): 10 Ripley Road, Rutland, VT, 05701, USA
-
-- Mailing Address: 10 Ripley Road, Rutland, VT, 05701, USA
-
-#### Principal Information (5)
-
-- Name:
-
-- Capacity: Secretary
-
-- Physical Address:
-
-- Mailing Address:
-
-- Name:
-
-- Capacity: President
-
-- Physical Address:
-
-- Mailing Address:
-
-- Name:
-
-- Capacity: Incorporator
-
-- Physical Address:
-
-- Mailing Address:
-
-- Name:
-
-- Capacity: Treasurer
-
-- Physical Address:
-
-- Mailing Address:
-
-- Name:
-
-- Capacity: Director
-
-- Physical Address:
-
-- Mailing Address:
-
-----------------------------------
-
-In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
-
-The articles of incorporation are hereby made a part of these ByLaws. In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.~
+*The articles of incorporation are hereby made a part of these ByLaws. In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.*
 
 ## ARTICLE II: PURPOSE
 
 ### A. Business Purpose
 
-This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
+*This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.*
 
-The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.
+*The company is democratically controlled and is not organized to make a profit for itself, as such, but primarily for its members as patrons.*
 
 ### B. Cooperative Purpose
 
@@ -276,67 +153,68 @@ If no motion to adopt a new rule regarding the voting process for accepting new 
 
 ## ARTICLE V: MEMBERSHIP
 
-### A. Classification of members
+### A. Membership Defined
 
-The company shall have one (1) class of members.
+### B. Classification of members
 
-### B. Membership Qualifications
+*The company shall have one (1) class of members.*
 
-    - Work
+### C. Membership Qualifications
 
-    [ ] six months (1040 hours) for the company (The candidacy period);
+~[ ] Work six months (1040 hours) for the company (The candidacy period), or~
 
-    [ ] twelve months (2080 hours) for the company (The candidacy period);
+**(*Twelve months seems to be the minimum we would consider*)**
+[x] Work twelve months (2080 hours) for the company (The candidacy period), or
 
-    [ ] eighteen months (3120 hours) for the company (The candidacy period);
+[ ] Work eighteen months (3120 hours) for the company (The candidacy period), or
 
-    [ ] twenty-four months (4160 hours) for the company (The candidacy period);
+[ ] Work twenty-four months (4160 hours) for the company (The candidacy period), or
 
-    [ ] thirty-six months (6240 hours) for the company (The candidacy period);
+[ ] thirty-six months (6240 hours) for the company (The candidacy period), and
 
-    - Be voted in, as set forth in **Article TBD** by the existing members following the candidacy period; and
+*Be voted in, as set forth in **Article TBD** by the existing members following the candidacy period.*
 
-    - Receiving a copy of the company’s Disclosure Statement, operating agreement, and a receipt
+### D. Acceptance of Members
 
-### C. Acceptance of Members
-
+**(*We haven't properly discussed this section*)**
 The members shall decide by the modified consensus process described in **Article TBD** whether to accept an application for membership. If an application is not accepted, the applicant’s employment shall be immediately terminated, unless the members, by the modified consensus process, choose to specify a further Candidacy Period to be followed by a second decision by the members whether to accept the application. Upon acceptance of an application, the applicant shall immediately become a member.
 
 In the case of an application by a former member, the company may waive the Candidacy Period and accept back the former member immediately by the affirmative vote of all the members.
 
-### D. Membership Resignation
+### E. Membership Resignation
 
-A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for **the company** for one month following voluntary termination of membership unless their membership is reinstated by **the company**. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of **the company** to enforce any such obligation or obtain damages for its breach.
+*A member shall have the right to resign as a member of the company by filing with the secretary of the company a written notice of resignation. The resignation shall become effective immediately without any action on the part of the company. An individual will not be allowed to work for the company for one month following voluntary termination of membership unless their membership is reinstated by the company. Resignation shall not relieve the resigning member from any obligation for charges incurred, dues, assessments, or fees, and this section shall not diminish any right of the company to enforce any such obligation or obtain damages for its breach.*
 
-### E. Process for the Removal of Members
+### F. Process for the Removal of Members
 
-**Combine this and next section??**
+**(*We discussed this briefly*)**
 
 No member may be expelled or suspended, and no membership or memberships may be terminated or suspended, except according to procedures satisfying the requirements of this section.
 
 A member may for any lawful reason be expelled from the company by a
 
-- [ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.
+~[ ] vote of seventy-five percent (75%) or greater of the members at a duly called meeting at which a quorum is present.~
 
-- [ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.
+~[ ] vote of eighty-five percent (85%) or greater of the members at a duly called meeting at which a quorum is present.~
 
-- [ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
+**(*The feeling was this section needed to be done with great care and reflection. The general sense was that it shouldn't only come down to a vote but that maybe there should also be reference to policies or rules. Having said that, the vote should be difficult, i.e., unanimous or unanimou-minus-one.*)**
 
-- [ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
+[ ] unanimous-minus-one or greater of the members at a duly called meeting at which a quorum is present.
 
-The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
+[ ] unanimous vote of the members at a duly called meeting at which a quorum is present.
 
-Any notice required under this section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the members shown on the company’s records.
+*The member must be given 15 days’ prior notice of the expulsion, suspension, or termination and the reasons therefor and the member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of the expulsion, suspension, or termination by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.*
 
-A member who is expelled or suspended or whose membership is terminated shall be liable for any charges incurred, dues, assessments, or fees incurred before expulsion, suspension, or termination or arising from contract or otherwise.
+*Any notice required under this section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the members shown on the company’s records.*
 
-The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.
+*A member who is expelled or suspended or whose membership is terminated shall be liable for any charges incurred, dues, assessments, or fees incurred before expulsion, suspension, or termination or arising from contract or otherwise.*
 
-### F. Expulsion of Worker-Owners
+*The company may direct a member whose expulsion is being considered to refrain from conducting business as a member until the expulsion decision is made, provided the company pays the member their average weekly wage – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The company may also direct a member whose expulsion is being considered to stay away from the company’s places of business except as necessary to exercise her or his rights under law.*
 
-**Split up expulsion with suspension??**
+### G. Suspension or Expulsion of Worker-Owners
 
-No Worker-Owner may be expelled or suspended except according to procedures satisfying therequirements of this Section:
+**(*Should we break up suspension and expulsion??*)**
+No Worker-Owner may be suspended or expelled except according to procedures satisfying the requirements of this Section:
 
 #### 1. Worker-Owner Expulsion Rules
 
@@ -345,65 +223,84 @@ A Worker-Owner may only be expelled from the Cooperative for cause by a vote of 
 #### 2. Causes for Worker-Owner Expulsion or Suspension
 
 Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsion or suspension includes, without limitation:
-  
-1. Not meeting the required minimum hours of work as may be determined from time to time by the Worker-Owners;
-2. If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);
-3. violating policies with staff or other Shareholders (with policies to be ratified by the board);
+
+**(*We dicussed this with feedback but no action was taken*)**
+
+1. Not meeting the required minimum hours of work
+
+    [ ] as may be determined from time to time by the Worker-Owners;
+    [ ] as specified in the handbook/policies;
+    [ ] as determined by the personal improvement plan;
+    [ ] something else entirely??
+
+2. **(*Wordy*)** *If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);*
+
+3. Violating board-approved policies;
+
 4. Disclosing confidential or sensitive information about the Cooperative or its customers to unauthorized persons (with “confidential” and “sensitive” to be defined by the board);
-~5. A new felony or serious misdemeanor conviction (with “serious” to be defined according to the judgment of the board);~
-5. Being declared incapacitated by final order of a court;
+
+    **(*We rejected this because it seems like none of the company's business*)**
+    ~A new felony or serious misdemeanor conviction (with “serious” to be defined according to the judgment of the board);~
+
+5. *Being declared incapacitated by final order of a court;*
+
 6. Using the Cooperative for personal financial gain in a manner that, either intentionally or accidentally, limits, hinders, detracts, or otherwise diminishes the overall capacity of the Cooperative to benefit the other members;
-7. Violating the Cooperative's board-approved code of ethics or any other written agreements; or
-8. Creating an unhealthy or dysfunctional workplace (as judged by the board).
 
-#### C. Due Process
+7. *Violating the Cooperative's board-approved code of ethics or any other written agreements; or*
 
-1. Prior Notice
-    The Worker-Owner must be given 15 days prior written notice of the proposed expulsion or suspension and the reasons for that proposal to expel or suspend them.
-2. Worker Owner Rights
-    The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.
-3. Actual Notice Requirement
-    Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.
-4. Expelled Worker-Owner and or Suspended Worker-Owner Liabilities (**rewrite**)
-    A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.
-5. The Cooperative’s Rights When Considering Matters of Worker-Owner Expulsion or Suspension (**rewrite**)
-    The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.
+8. *Creating an unhealthy or dysfunctional workplace* (as judged by the board).
 
-### Membership Defined
+#### 3. Due Process
 
-### Rights and Obligations of Members
+1. *Prior Notice*
 
-#### Member Voting Rights and Obligations
+    *The Worker-Owner must be given 15 days prior written notice of the proposed expulsion or suspension and the reasons for that proposal to expel or suspend them.*
 
-#### Member Dissolution Rights and Obligations
+2. *Worker Owner Rights*
 
-#### Member Redemption Rights and Obligations
+    *The Worker-Owner shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion or suspension, by the body authorized to decide whether the proposed expulsion or suspension not take place.*
 
-#### Member Transfer Rights and Obligations
+3. *Actual Notice Requirement*
 
-#### Member Distribution Rights and Obligations
+    *Any notice required under this Section may be given by any method reasonably calculated to provide actual notice. Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-Owner shown on the Cooperative’s records. Any notice given by email must be sent to the last email address on file in the records of the Cooperative, which notice shall be deemed delivered if sent and no error message is received by sender within twenty-four hours from transmission.*
 
-#### Member Patronage distributions Rights and Obligations
+4. *Expelled Worker-Owner and or Suspended Worker-Owner Liabilities (**rewrite**)*
 
-#### patronage Rights and Obligations
+    *A Worker-Owner who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion or suspension.*
 
-#### property rights Rights and Obligations
+5. *The Cooperative’s Rights When Considering Matters of Worker-Owner Expulsion or Suspension (**rewrite**)*
 
-#### rights to repayment of contributed capital Rights and Obligations
+    *The Cooperative may direct a Worker-Owner whose expulsion is being considered to refrain from conducting business as a Worker-Owner until the expulsion decision is made, provided the Cooperative pays the Worker-Owner their average weekly wage or compensation (calculated based on the three months preceding the date of the notice given pursuant to this Section) until the expulsion decision is made. The Cooperative may also direct a Worker-Owner whose expulsion is being considered to stay away from the Cooperative's places of business except as necessary to exercise their rights under law.*
 
-### Acceptance of Members
+### H. Rights and Obligations of Members
 
-### Election of Directors
+#### 1. Member Voting Rights and Obligations
 
-### Operating Agreement Changes
+#### 2. Member Dissolution Rights and Obligations
 
-This section concerns how to make changes that would materially affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital, including:
+#### 3. Member Redemption Rights and Obligations
 
-#### Increase or decrease the number of members authorized in total or for any class
+#### 4. Member Transfer Rights and Obligations
 
-#### Effect an exchange, reclassification, or cancellation of all or part of the companies memberships
+#### 5. Member Distribution Rights and Obligations
 
-#### Authorize a new class of membership
+#### 6. Member Patronage distributions Rights and Obligations
+
+#### 7. Property rights Rights and Obligations
+
+#### 8. Rights to repayment of contributed capital Rights and Obligations
+
+### I. Election of Directors
+
+### J. Operating Agreement Changes
+
+*This section concerns how to make changes that would materially affect the rights or obligations of members as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital, including:*
+
+#### ?? Increase or decrease the number of members authorized in total or for any class
+
+#### ?? Effect an exchange, reclassification, or cancellation of all or part of the companies memberships
+
+#### ?? Authorize a new class of membership
 
 #### Specify or change the maximum or minimum number of directors or change from a variable number of board members to a fixed number
 
@@ -413,7 +310,7 @@ This section concerns how to make changes that would materially affect the right
 
 ## ARTICLE VI: MEMBERSHIP MEETINGS
 
-This section addresses the details of annual general membership meetings.
+*This section addresses the details of annual general membership meetings.*
 
 ### A. Distinction between Membership and Board Meetings
 
@@ -423,94 +320,106 @@ This section addresses the details of annual general membership meetings.
 
 ### B. Member Voting
 
-The voting power of the members shall be equal.
+*The voting power of the members shall be equal.*
 
+**(*We added this*)**
 Members are disqualified from voting on matters for which there is a conflict of interest. Matters directly pertaining to a member’s spouse/partner or close relative are considered to be de facto conflicts of interest; no member may vote on matters concerning their spouse/partner or close relative. Close relatives include: grandparents, parents, children, grandchildren, aunts, uncles, nieces, nephews, and first cousins, as well as any legal and/or common-law “in-law” variants of the above.
 
 Whenever members are disqualified from voting on any matter, they shall not be counted for the determination of a quorum or the required vote to approve an action.
 
-There shall be no voting by proxy.
+*There shall be no voting by proxy.*
 
-There shall be no cumulative voting.
+*There shall be no cumulative voting.*
 
-Unless otherwise specified, all votes shall be conducted using the procedures in Article VII.
+*Unless otherwise specified, all votes shall be conducted using the procedures in Article TBD.*
 
 ### C. Annual Meeting
 
-An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.
+*An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.*
 
-In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three). Any other proper business may be transacted at the meeting.
+**(*This is incomprehensible legal gibberish*)**
+*In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three). Any other proper business may be transacted at the meeting.*
 
 ### D. Special Meetings
 
-Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members. The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the company addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request.
+**(*More gibberish*)**
+*Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members. The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the company addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request.*
 
 ### E. Participation by Electronic Communications
 
-If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation.
+**(*Gibberish*)**
+*If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation.*
 
-Any request by the company to a member for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member, the meeting shall be held at a physical location.
+*Any request by the company to a member for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member, the meeting shall be held at a physical location.*
 
 ### F. Notice
 
-Whenever the members are required to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each member who, on the record date for notice of the meeting, is entitled to vote thereat; provided, however, that if notice is given by mail, and the notice is not mailed by first-class, registered, or certified mail, that notice shall be given not less than 20 days before the meeting.
+**(*Gibberish*)**
+*Whenever the members are required to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each member who, on the record date for notice of the meeting, is entitled to vote thereat; provided, however, that if notice is given by mail, and the notice is not mailed by first-class, registered, or certified mail, that notice shall be given not less than 20 days before the meeting.*
 
-The notice shall state the place, date, and time of the meeting, the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in that meeting, and (1) in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (2) in the case of the regular meeting, those matters which the board, at the time the notice is given, intends to present for action by the members. The notice of any meeting at which directors are to be elected shall include the names of all those who are nominees at the time the notice is given to members.
+*The notice shall state the place, date, and time of the meeting, the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in that meeting, and (1) in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (2) in the case of the regular meeting, those matters which the board, at the time the notice is given, intends to present for action by the members. The notice of any meeting at which directors are to be elected shall include the names of all those who are nominees at the time the notice is given to members.*
 
-Notwithstanding the foregoing, any of the following decisions, other than by unanimous approval by those entitled to vote, shall be valid only if the general nature of the proposal was stated in the notice of meeting or in any written waiver of notice:
+*Notwithstanding the foregoing, any of the following decisions, other than by unanimous approval by those entitled to vote, shall be valid only if the general nature of the proposal was stated in the notice of meeting or in any written waiver of notice:*
 
-- Removal of directors;
-- Election of a director to fill a vacancy;
-- Approval of a contract or other transaction between the corporation and one or more of its directors, or between a corporation and any corporation, firm, or association in which one or more of its directors has a material financial interest or is a director;
-- Amendment of the articles of incorporation; and
-- Approval of a plan of distribution upon winding up of the corporation.
+- *Removal of directors;*
+- *Election of a director to fill a vacancy;*
+- *Approval of a contract or other transaction between the corporation and one or more of its directors, or between a corporation and any corporation, firm, or association in which one or more of its directors has a material financial interest or is a director;*
+- *Amendment of the articles of incorporation; and*
+- *Approval of a plan of distribution upon winding up of the corporation.*
 
-Notice of a members’ meeting or any report shall be given personally, by electronic transmission by the corporation, or by mail or other means of written communication, addressed to a member at the address of such member appearing on the books of the corporation or given by the member to the corporation for purpose of notice; or if no such address appears or is given, at the place where the principal office of the corporation is located or by publication at least once in a newspaper of general circulation in the county in which the principal office is located.
+*Notice of a members’ meeting or any report shall be given personally, by electronic transmission by the corporation, or by mail or other means of written communication, addressed to a member at the address of such member appearing on the books of the corporation or given by the member to the corporation for purpose of notice; or if no such address appears or is given, at the place where the principal office of the corporation is located or by publication at least once in a newspaper of general circulation in the county in which the principal office is located.*
 
-If any notice or report addressed to the member at the address of such member appearing on the books of the corporation is returned to the corporation by the United States Postal Service marked to indicate the United States Postal Service is unable to deliver the notice or report to the member at such address, all future notices or reports shall be deemed to have been duly given without further mailing if the same shall be available for the member upon written demand of the member at the principal office of the corporation for a period of one year from the date of the giving of the notice or report to all other members.
+*If any notice or report addressed to the member at the address of such member appearing on the books of the corporation is returned to the corporation by the United States Postal Service marked to indicate the United States Postal Service is unable to deliver the notice or report to the member at such address, all future notices or reports shall be deemed to have been duly given without further mailing if the same shall be available for the member upon written demand of the member at the principal office of the corporation for a period of one year from the date of the giving of the notice or report to all other members.*
 
-Notice shall not be given by electronic transmission by the corporation under this section after either of the following:
+*Notice shall not be given by electronic transmission by the corporation under this section after either of the following:*
 
-- The corporation is unable to deliver two consecutive notices to the member by that means
-- The inability to so deliver notices to the member becomes known to the secretary, any assistant secretary, or other person responsible for the giving of notice.
+- *The corporation is unable to deliver two consecutive notices to the member by that means*
+- *The inability to so deliver notices to the member becomes known to the secretary, any assistant secretary, or other person responsible for the giving of notice.*
 
 ### G. Waiver of Notice
 
-The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.
+**(*Even more gibberish*)**
+*The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.*
 
-Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting.
+*Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting.*
 
-Neither the business to be transacted at nor the purpose of any regular or special meeting of members need be specified in any written waiver of notice, consent to the holding of the meeting, or approval of the minutes thereof.
+*Neither the business to be transacted at nor the purpose of any regular or special meeting of members need be specified in any written waiver of notice, consent to the holding of the meeting, or approval of the minutes thereof.*
 
 ### H. Adjourned Meetings
 
-When a members’ meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place thereof (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting. If the adjournment is for more than 45 days or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.
+**(*Gibberish continued*)**
+*When a members’ meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place thereof (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting. If the adjournment is for more than 45 days or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.*
 
 ### I. Quorum
 
-A majority of the members shall constitute a quorum at a meeting of members. If a quorum is present, the affirmative vote of the majority of the members entitled to vote shall be the act of the members unless the vote of a greater number is required by the articles or operating agreement.
+**(*Gibberish Lite*)**
+*A majority of the members shall constitute a quorum at a meeting of members. If a quorum is present, the affirmative vote of the majority of the members entitled to vote shall be the act of the members unless the vote of a greater number is required by the articles or operating agreement.*
 
-The members present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment notwithstanding the withdrawal of enough members to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the members required to constitute a quorum or, if required by the articles or the operating agreement, the vote of the greater number so required.
+*The members present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment notwithstanding the withdrawal of enough members to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the members required to constitute a quorum or, if required by the articles or the operating agreement, the vote of the greater number so required.*
 
-In the absence of a quorum, any meeting of members may be adjourned from time to time by the vote of a majority of the votes represented in person, but no other business may be transacted, except as provided in the preceding paragraph.
+*In the absence of a quorum, any meeting of members may be adjourned from time to time by the vote of a majority of the votes represented in person, but no other business may be transacted, except as provided in the preceding paragraph.*
 
 ### J. Record Date
 
-The board may fix, in advance, a date as the record date for the purpose of determining the members entitled to vote at a meeting of members. Such record date shall not be more than 60 days before the date of the meeting. Such record date shall also apply in the case of an adjournment of the meeting unless the board fixes a new record date for the adjourned meeting. If no record date is fixed, members on the day of the meeting who are otherwise eligible to vote are entitled to vote at the meeting of members or, in the case of an adjourned meeting, members on the day of the adjourned meeting who are otherwise eligible to vote are entitled to vote at the adjourned meeting of members.
+**(*Gibberish*)**
+*The board may fix, in advance, a date as the record date for the purpose of determining the members entitled to vote at a meeting of members. Such record date shall not be more than 60 days before the date of the meeting. Such record date shall also apply in the case of an adjournment of the meeting unless the board fixes a new record date for the adjourned meeting. If no record date is fixed, members on the day of the meeting who are otherwise eligible to vote are entitled to vote at the meeting of members or, in the case of an adjourned meeting, members on the day of the adjourned meeting who are otherwise eligible to vote are entitled to vote at the adjourned meeting of members.*
 
 ## ARTICLE VII: DIRECTORS
 
 ### A. Directors and Board Composition
 
-All members of the corporation shall serve on the board of directors and no person other than the members of the corporation shall serve on the board of directors (except as provided in the following paragraph).
+**(*NOT gibberish ... but essentially useless given our small size*)**
+*All members of the corporation shall serve on the board of directors and no person other than the members of the corporation shall serve on the board of directors (except as provided in the following paragraph).*
 
-The number of directors shall be not less than three or more than forty with the exact number of directors to be fixed, within the limits specified, by a vote of the members. If there are fewer than three members, the member(s) shall elect the minimum required number of directors to bring the total number of directors to three.
+*The number of directors shall be not less than three or more than forty with the exact number of directors to be fixed, within the limits specified, by a vote of the members. If there are fewer than three members, the member(s) shall elect the minimum required number of directors to bring the total number of directors to three.*
 
-Should the number of members ever exceed forty, the members shall immediately meet to amend the operating agreement to require that the board be elected from among the members.
+*Should the number of members ever exceed forty, the members shall immediately meet to amend the operating agreement to require that the board be elected from among the members.*
 
-**Meetings of the members in their capacity as the board of directors shall be governed by this Article TBD. Meetings of the members in their capacity as members shall be governed by Article TBD.**
+*Meetings of the members in their capacity as the board of directors shall be governed by this Article TBD. Meetings of the members in their capacity as members shall be governed by Article TBD.*
 
 ### B. Terms of Office
+
+***EVERYTHING DOWN IS LEGALESE GIBBERISH***
 
 The term of office of the directors shall be one year.
 
@@ -720,27 +629,27 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
 1. Mission, purpose, and legal structure
 
-    This section often includes the cooperative’s mission statement, vision statement, or stated purpose. This is also a good place to restate the information outlined in the Articles of Incorporation.  The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
+    This section often includes the cooperative’s mission statement, vision statement, or stated purpose. This is also a good place to restate the information outlined in the Articles of Incorporation. The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
 
-    “The articles of incorporation are hereby made a part of these ByLaws.  In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.”
+    “The articles of incorporation are hereby made a part of these ByLaws. In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.”
 
 2. Membership
 
-    This section should describe each membership class (if more than one). For each membership class, outline who is eligible for membership, the requirements for membership, voting rights.  Specify rules for suspension or termination of membership, including guidelines for returning member investments.  Note that membership shares are often non-transferrable.In worker cooperatives, this section or an alternative section may also outline guidelines relating to additional rights and responsibilities of workers.  Such guidelines may address working conditions, the pay scale or pay differential, and more.
+    This section should describe each membership class (if more than one). For each membership class, outline who is eligible for membership, the requirements for membership, voting rights. Specify rules for suspension or termination of membership, including guidelines for returning member investments. Note that membership shares are often non-transferrable.In worker cooperatives, this section or an alternative section may also outline guidelines relating to additional rights and responsibilities of workers. Such guidelines may address working conditions, the pay scale or pay differential, and more.
 
 3. Membership Meetings
 
-    This section should address the details of annual (or periodic) general membership meetings.  Such details may include:
+    This section should address the details of annual (or periodic) general membership meetings. Such details may include:
 
     - How often are regular membership meetings held?
     - How is the agenda compiled?
     - How is the time and location of the meeting announced?
     - How are special membership meetings called?
-    - How are special meetings announced? 3. What decision-making process is used?  
-    - Consensus?  
-    - Modified consensus?  
-    - Majority vote?  
-    - What percentage of participants must vote in favor in order to approve a decision?  
+    - How are special meetings announced? 3. What decision-making process is used?
+    - Consensus?
+    - Modified consensus?
+    - Majority vote?
+    - What percentage of participants must vote in favor in order to approve a decision?
     - Do stand-asides affect the outcome?
 
     Possible “majority” thresholds include 50% plus 1, 66%, 75%, and occasionally greater percentages.
@@ -755,29 +664,29 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
     The “Board Directors” section should answer these questions:
 
-        - What is the minimum or maximum number of Board Directors?  It may be useful to specify a range in the Bylaws, so the Board can grow if needed.  Cooperatives often try to have an odd number of directors.  Do you want the Board to reflect certain constituents?  Many consumer-owned cooperatives strive to fill a certain number of seats with staff members.
+        - What is the minimum or maximum number of Board Directors? It may be useful to specify a range in the Bylaws, so the Board can grow if needed. Cooperatives often try to have an odd number of directors. Do you want the Board to reflect certain constituents? Many consumer-owned cooperatives strive to fill a certain number of seats with staff members.
         
-        - How are Board Directors elected?  How long are Board terms?  Many cooperatives try to stagger terms, so that only about half of the Board seats are up for re-election at a time.  This helps to ensure organizational stability and preserve institutional memory.
+        - How are Board Directors elected? How long are Board terms? Many cooperatives try to stagger terms, so that only about half of the Board seats are up for re-election at a time. This helps to ensure organizational stability and preserve institutional memory.
         
-        - How are vacancies filled?  Some cooperatives allow the Board Directors to fill vacant seats, while others require a special vote of the membership. Others offer vacant seats to runners-up from recent elections. 
+        - How are vacancies filled? Some cooperatives allow the Board Directors to fill vacant seats, while others require a special vote of the membership. Others offer vacant seats to runners-up from recent elections. 
         
-        - Under what circumstances can Directors be removed?  What is the process for removing Directors?  In cases of serious misconduct or negligence, suspension or removal may be automatic.  In other cases, there may need to be a mechanism for empowering members to recall Directors or Board Decisions.
+        - Under what circumstances can Directors be removed? What is the process for removing Directors? In cases of serious misconduct or negligence, suspension or removal may be automatic. In other cases, there may need to be a mechanism for empowering members to recall Directors or Board Decisions.
         
-        - Will Directors be paid for serving on the Board?  If so, how much?  Different states have different statutes.  
+        - Will Directors be paid for serving on the Board? If so, how much? Different states have different statutes.
         
-        - Do you wish to prohibit Board Directors from voting if they have a conflict of interest (such as compensation of officers)?  Here is a useful phrase: “It shall be the duty of all board directors to make prompt and full disclosure to the board of any personal, professional, or financial conflict of interest in a matter under discussion.  When a conflict of interest is disclosed, the board member must not participate in the discussion or vote on the relevant issue.”
+        - Do you wish to prohibit Board Directors from voting if they have a conflict of interest (such as compensation of officers)? Here is a useful phrase: “It shall be the duty of all board directors to make prompt and full disclosure to the board of any personal, professional, or financial conflict of interest in a matter under discussion. When a conflict of interest is disclosed, the board member must not participate in the discussion or vote on the relevant issue.”
         
-        - How often are Board Meetings held?  How will the time and location be communicated to members?  Under what circumstances can emergency Board meetings be called, and how will they be announced?
+        - How often are Board Meetings held? How will the time and location be communicated to members? Under what circumstances can emergency Board meetings be called, and how will they be announced?
         
-        - What are the general duties of Board Directors?  What is their relationship to the management, staff, and members? 
+        - What are the general duties of Board Directors? What is their relationship to the management, staff, and members? 
         
-        - What is the role of the management?  Typically (co-)managers oversee daily operations in compliance with general guidelines set by the Board, and report to the Board of Directors.
+        - What is the role of the management? Typically (co-)managers oversee daily operations in compliance with general guidelines set by the Board, and report to the Board of Directors.
         
-        - Will there be Board Committees?  Should these be defined in the Bylaws?  How are Board Committees formed?  What are the limitations of Board Committees’ decision-making power?
+        - Will there be Board Committees? Should these be defined in the Bylaws? How are Board Committees formed? What are the limitations of Board Committees’ decision-making power?
 
 6. Board Officers
 
-    The Board may be required to designate a President / Chair, Secretary, Treasurer, and / or alternatives.  Check your state’s requirements, and outline the duties of each officer in subsections.  Also specify how officers are designated (elected directly by the membership or chosen by Board Directors) and how long their terms last.
+    The Board may be required to designate a President / Chair, Secretary, Treasurer, and / or alternatives. Check your state’s requirements, and outline the duties of each officer in subsections. Also specify how officers are designated (elected directly by the membership or chosen by Board Directors) and how long their terms last.
 
 7. Finances
 
@@ -789,23 +698,133 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
     - What are your policies for patronage refunds and reserves?
 
-    - Check the IRS code for guidelines for equity records.  Cover equity redemption for terminating members, deceased members, and unclaimed equity.
+    - Check the IRS code for guidelines for equity records. Cover equity redemption for terminating members, deceased members, and unclaimed equity.
 
-    - Consent to patronage distributions.  Another useful phrase:“Consent to patronage distributions” means that all members will report their co-op patronage refunds and retained capital equity to the IRS as earnings.  Each year members will receive a 1099 form itemizing their patronage refunds earned in that year.” It is helpful to state in the Bylaws and in your membership contract that individuals consent to comply with relevant tax laws upon becoming members.
+    - Consent to patronage distributions. Another useful phrase:“Consent to patronage distributions” means that all members will report their co-op patronage refunds and retained capital equity to the IRS as earnings. Each year members will receive a 1099 form itemizing their patronage refunds earned in that year.” It is helpful to state in the Bylaws and in your membership contract that individuals consent to comply with relevant tax laws upon becoming members.
 
 8. Administration and Miscellaneous
 
-    This section can include a variety of topics (organized into subsections).  Topics may include when the fiscal year begins, what meeting process is used (Robert’s Rules of Order, Butler’s Formal Consensus, or another system detailed in a separate text that can be referenced by members), use of a corporate seal or logo, indemnification and insurance coverage for Directors, financial reviews, options for advisory councils and committees, and more. Separate sections can be created for these topics if desired.
+    This section can include a variety of topics (organized into subsections). Topics may include when the fiscal year begins, what meeting process is used (Robert’s Rules of Order, Butler’s Formal Consensus, or another system detailed in a separate text that can be referenced by members), use of a corporate seal or logo, indemnification and insurance coverage for Directors, financial reviews, options for advisory councils and committees, and more. Separate sections can be created for these topics if desired.
 
 9. Amendment to the Bylaws
 
-    It is important to state the procedure for amending the Bylaws.  How does a Board Director or member propose an amendment?  How is an amendment approved?  (This often requires a period or special general membership meeting and a vote of the membership.  Some cooperatives require that members petition for a special meeting and / or Bylaws change in order to demonstrate that their proposal has some support.)
+    It is important to state the procedure for amending the Bylaws. How does a Board Director or member propose an amendment? How is an amendment approved? (This often requires a period or special general membership meeting and a vote of the membership. Some cooperatives require that members petition for a special meeting and / or Bylaws change in order to demonstrate that their proposal has some support.)
 
 10. Dissolution
 
-    What procedures should be followed if the cooperative goes out of business?  If members or Board Directors are interested in dissolving the cooperative voluntarily?  How will remaining assets be divided?  This part should be consistent with your Articles of Incorporation.
+    What procedures should be followed if the cooperative goes out of business? If members or Board Directors are interested in dissolving the cooperative voluntarily? How will remaining assets be divided? This part should be consistent with your Articles of Incorporation.
+
+    In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
 
 ## Appendix 3: Resources
+
+### Official Documents
+
+[GREEN MOUNTAIN INSULATED GLASS INC 1/13/2026 Annual Report](https://drive.google.com/file/d/1Jy5rOU5DdvSl-EzuzrdnYAkLptUFy5BS/view?usp=drive_link)
+
+### Vermont Secretary of State Procedures for Cooperatives Generally
+
+Online filing is not available for cooperatives. The filing process for a cooperative depends on the type. Please allow 7-10 business days for the processing of any filings received by mail. Detailed information and filing instructions for each type of cooperative follow these advisories:
+
+We recommend that you consult with an attorney, accountant, or business advisor about which business structure is best for you.
+
+Under Vermont's “distinguishable in the record” standard, if the requested name is too similar to an already registered name, such that it would confuse the public as to whom they are dealing with, it will be rejected. All registrations are subject to [name availability rules](https://sos.vermont.gov/business-services/fees-statutes/business-name-rules/). To avoid conflicts, please [search our online database](https://bizfilings.vermont.gov/business/businesssearch) for your desired business name.
+
+#### Vermont Secretary of State Procedures for Worker Cooperative Corporation Specifically
+
+##### Worker Cooperative Corporation
+
+A profit corporation that elects to be governed as a worker cooperative under the provisions of [11 V.S.A. ch. 8](https://legislature.vermont.gov/statutes/chapter/11/008) to be commonly owned and managed by its workers and whose articles of incorporation include, a statement of such election.
+
+##### Filing Instructions
+
+To form a worker cooperative corporation, submit Articles of Incorporation, Articles of Amendment, or Restated Articles of Incorporation as either a [general or close corporation](https://sos.vermont.gov/business-services/business-filings/domestic-formation/profit-corporation/) in which the corporation elects to be a worker cooperative corporation.
+
+*Existing corporations may become Worker Cooperative Corporations by filing Articles of Amendment or Restated Articles of Incorporation in which the corporation elects to be a worker cooperative corporation.*
+
+#### Generic Articles of Incorporation
+
+- Business Name: GREEN MOUNTAIN INSULATED GLASS COOPERATIVE INC **??**
+
+- Business Type: Worker Cooperative Corporation
+
+- Election Type:
+
+- Record Number:
+
+- Business Status:
+
+- Principal Office (Street Address): 10 Ripley Road, Rutland, VT, 05701, USA
+
+- Mailing Address: 10 Ripley Road, Rutland, VT, 05701, USA
+
+- Date of Formation:
+
+#### Generic Annual Report Information
+
+- Report Status:
+
+- Reporting Period Opens:
+
+- Fiscal Year End Month: December
+
+- Business Purpose (NAICS Codes): 999999-Any Lawful Purpose
+
+#### Generic Registered Agent Information
+
+- Agent Name:
+
+- Agent Type:
+
+- Status:
+
+- Resignation Date:
+
+- Registered Office (Street Address): 10 Ripley Road, Rutland, VT, 05701, USA
+
+- Mailing Address: 10 Ripley Road, Rutland, VT, 05701, USA
+
+#### Principal Information (5)
+
+- Name:
+
+- Capacity: Secretary
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: President
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: Incorporator
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: Treasurer
+
+- Physical Address:
+
+- Mailing Address:
+
+- Name:
+
+- Capacity: Director
+
+- Physical Address:
+
+- Mailing Address:
 
 ### Markdown
 
