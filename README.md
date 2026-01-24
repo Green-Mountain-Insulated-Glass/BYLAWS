@@ -2,19 +2,21 @@
 
 *NOTE: any part of this document with "options" or empty checkboxes is to highlight what work remains.*
 
-*The final draft cannot have options but must instead be clear and decisive with no room for misinterpretation.*
+*The final draft cannot have options but must be clear and decisive with no room for misinterpretation.*
 
 ## Comments from 1/22/26 steering committee
 
 1. We need to forground the decision making progress.
 
-2. We need to ensure that the methods for changing the ByLaws are clear and legal and obvious.
+2. We need to ensure that the methods for changing the ByLaws are clear and legal.
 
-3. Questions: how do we square the voting methods with quorum especially considering the small of the company now, e.g, if 4 members constitute a quorum with 6 members and a vote is taken, and the operating rules specify "unanimous-minus-one" and one member votes Nay and three members vote Yea, which satisfies the "unanimous-minus-one" rule, does that vote, which constitutes only 1/2 of the overall members, still count as a quorom?
+3. Questions: how do we square the voting methods with quorum especially considering the small size of the company now, e.g,
 
-Another way to ask this question is: how would a "unanimous-minus-one" method of voting affect how we define a quorom?
+    - if 4 members constitute a quorum with 6 members and a vote is taken, and the operating rules specify "unanimous-minus-one" and one member votes Nay and three members vote Yea, which satisfies the "unanimous-minus-one" rule, does that vote, which constitutes only 1/2 of the overall members, still count as a quorom?
 
-No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassionately.
+    - Another way to ask this question is: how would a "unanimous-minus-one" method of voting affect how we define a quorom?
+
+4. No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassionately.
 
 ## Plan from 1/23/26 zoom meeting with AW
 
@@ -32,11 +34,13 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
 
 [ ] Be sure to equip as many as possible with laptops/devices to better facilitate the virtual meeting.
 
-[ ] Get A.W. caught up by sending:
+[x] Get A.W. caught up by sending:
 
-        [ ] ByLaws as they exist
-        [ ] everyone's email
-        [x] identify the primary contact
+    [x] ByLaws as they exist
+
+    [x] everyone's email
+
+    [x] identify the primary contact
 
 ## GMIG CO-OP INC unratified ByLaws
 
