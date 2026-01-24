@@ -77,9 +77,9 @@ About half of this document is a boilerplate placeholder designed to remind our 
 
 The other half is only partially revised. The parts that we haven't given sufficient attention to but probably should are *italicized*.
 
-None of us is willing to die on the hill of any part of these ByLaws because they are purely rough draft / initial thoughts. None of this has been voted on internally. All of it is subject to edits, rewording, revisions, excisions, expansion, etc.
+None of us is willing to die on the hill of any part of these ByLaws because they are purely rough draft / initial thoughts. None of this has been voted on internally. All of it is subject to edits, rewording, revisions, excisions, expansion, etc.~
 
-~## ARTICLE I: ARTICLES OF INCORPORATION
+## ARTICLE I: ARTICLES OF INCORPORATION
 
 The existing business is GREEN MOUNTAIN INSULATED GLASS INC.
 
