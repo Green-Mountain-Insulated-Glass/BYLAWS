@@ -8,7 +8,7 @@
 
 1. We need to forground the decision making progress.
 
-2. We need to ensure that the methods for changing the ByLaws are clear and legal.
+2. We need to ensure that the methods for changing the Bylaws are clear and legal.
 
 3. Questions: how do we square the voting methods with quorum especially considering the small size of the company now, e.g,
 
@@ -36,13 +36,13 @@
 
 [x] Get A.W. caught up by sending:
 
-- [x] ByLaws as they exist
+- [x] Bylaws as they exist
 
 - [x] everyone's email
 
 - [x] identify the primary contact
 
-## GMIG CO-OP INC unratified ByLaws
+## GMIG CO-OP INC unratified Bylaws
 
 - [ARTICLE I: ARTICLES OF INCORPORATION](#article-i-articles-of-incorporation)
 - [ARTICLE II: PURPOSE](#article-ii-purpose)
@@ -68,7 +68,7 @@ The existing business is GREEN MOUNTAIN INSULATED GLASS INC.
 
 [...]
 
-The articles of incorporation are hereby made a part of these ByLaws. In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.
+The articles of incorporation are hereby made a part of these Bylaws. In case of any inconsistency between the articles of incorporation and these Bylaws, the provisions of the articles of incorporation are controlling.
 
 ## ARTICLE II: PURPOSE
 
@@ -80,7 +80,7 @@ The company is democratically controlled and is not organized to make a profit f
 
 ### B. Cooperative Purpose
 
-To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These ByLaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
+To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These Bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
 
 ## ARTICLE III: DEFINITIONS
 
@@ -162,7 +162,7 @@ If no motion to adopt a new rule regarding the voting process for accepting new 
   
 Failure to pass "The Backup Rule for Accepting New Employee-Owners" establishes "The Default Rule for Accepting New Employee-Owners" which shall be:
 
-- The vote to accept new employee-owners must receive 75% approval from all members eligible to vote. This motion passes automatically unless and until the ByLaws have been modified to change this process.
+- The vote to accept new employee-owners must receive 75% approval from all members eligible to vote. This motion passes automatically unless and until the Bylaws have been modified to change this process.
 
 ## ARTICLE V: MEMBERSHIP
 
@@ -552,7 +552,7 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
     This section often includes the cooperative’s mission statement, vision statement, or stated purpose. This is also a good place to restate the information outlined in the Articles of Incorporation. The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
 
-    “The articles of incorporation are hereby made a part of these ByLaws. In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.”
+    “The articles of incorporation are hereby made a part of these Bylaws. In case of any inconsistency between the articles of incorporation and these Bylaws, the provisions of the articles of incorporation are controlling.”
 
 2. Membership
 
