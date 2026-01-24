@@ -350,6 +350,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### E. Participation by Electronic Communications
 
 **(*Gibberish*)**
+
 *If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation.*
 
 *Any request by the company to a member for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member, the meeting shall be held at a physical location.*
@@ -357,6 +358,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### F. Notice
 
 **(*Gibberish*)**
+
 *Whenever the members are required to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each member who, on the record date for notice of the meeting, is entitled to vote thereat; provided, however, that if notice is given by mail, and the notice is not mailed by first-class, registered, or certified mail, that notice shall be given not less than 20 days before the meeting.*
 
 *The notice shall state the place, date, and time of the meeting, the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in that meeting, and (1) in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (2) in the case of the regular meeting, those matters which the board, at the time the notice is given, intends to present for action by the members. The notice of any meeting at which directors are to be elected shall include the names of all those who are nominees at the time the notice is given to members.*
@@ -391,11 +393,13 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### H. Adjourned Meetings
 
 **(*Gibberish continued*)**
+
 *When a members’ meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place thereof (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting. If the adjournment is for more than 45 days or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.*
 
 ### I. Quorum
 
 **(*Gibberish Lite*)**
+
 *A majority of the members shall constitute a quorum at a meeting of members. If a quorum is present, the affirmative vote of the majority of the members entitled to vote shall be the act of the members unless the vote of a greater number is required by the articles or operating agreement.*
 
 *The members present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment notwithstanding the withdrawal of enough members to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the members required to constitute a quorum or, if required by the articles or the operating agreement, the vote of the greater number so required.*
@@ -405,6 +409,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### J. Record Date
 
 **(*Gibberish*)**
+
 *The board may fix, in advance, a date as the record date for the purpose of determining the members entitled to vote at a meeting of members. Such record date shall not be more than 60 days before the date of the meeting. Such record date shall also apply in the case of an adjournment of the meeting unless the board fixes a new record date for the adjourned meeting. If no record date is fixed, members on the day of the meeting who are otherwise eligible to vote are entitled to vote at the meeting of members or, in the case of an adjourned meeting, members on the day of the adjourned meeting who are otherwise eligible to vote are entitled to vote at the adjourned meeting of members.*
 
 ## ARTICLE VII: DIRECTORS
@@ -607,7 +612,7 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
 ## Appendix 1: Glossary
 
-1. [Capital Expenditure (CapEx)](https://www.investopedia.com/terms/c/capitalexpenditure.asp)refers to money spent to buy, upgrade, or maintain long-term assets. Examples of CapEx include the purchase or lease of property (e.g., land, buildings, warehouses), equipment (e.g., manufacturing machinery, vehicles, computers), technology (e.g., software, IT infrastructure), and intangibles (e.g., patents, licenses, trademarks). CapEx should achieve, or attempt to achieve, an increase in productivity or an increase in efficiency, and can include significant maintenance for the upkeep of existing infrastructure.
+1. [Capital Expenditure (CapEx)](https://www.investopedia.com/terms/c/capitalexpenditure.asp) refers to money spent to buy, upgrade, or maintain long-term assets. Examples of CapEx include the purchase or lease of property (e.g., land, buildings, warehouses), equipment (e.g., manufacturing machinery, vehicles, computers), technology (e.g., software, IT infrastructure), and intangibles (e.g., patents, licenses, trademarks). CapEx should achieve, or attempt to achieve, an increase in productivity or an increase in efficiency, and can include significant maintenance for the upkeep of existing infrastructure.
 
 2. [Operating Expenses (OpEx)](https://www.investopedia.com/ask/answers/040915/what-are-different-types-operating-expenses.asp) are the day-to-day costs the Cooperative incurs. OpEx includes rent, salaries, utilities, and marketing.
 
