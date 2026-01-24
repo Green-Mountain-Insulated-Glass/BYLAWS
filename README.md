@@ -295,9 +295,7 @@ Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsio
 
 The voting power of the members shall be equal.
 
->
-> **(*We added this*)**
->
+**(*We added this*)**
 
     Members are disqualified from voting on matters for which there is a conflict of interest. Matters directly pertaining to a member’s spouse/partner or close relative are considered to be de facto conflicts of interest; no member may vote on matters concerning their spouse/partner or close relative. Close relatives include: grandparents, parents, children, grandchildren, aunts, uncles, nieces, nephews, and first cousins, as well as any legal and/or common-law “in-law” variants of the above.
 
