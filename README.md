@@ -164,6 +164,7 @@ If no motion to adopt a new rule regarding the voting process for accepting new 
 ~[ ] Work six months (1040 hours) for the company (The candidacy period), or~
 
 **(*Twelve months seems to be the minimum we would consider*)**
+
 [x] Work twelve months (2080 hours) for the company (The candidacy period), or
 
 [ ] Work eighteen months (3120 hours) for the company (The candidacy period), or
@@ -177,6 +178,7 @@ If no motion to adopt a new rule regarding the voting process for accepting new 
 ### D. Acceptance of Members
 
 **(*We haven't properly discussed this section*)**
+
 The members shall decide by the modified consensus process described in **Article TBD** whether to accept an application for membership. If an application is not accepted, the applicant’s employment shall be immediately terminated, unless the members, by the modified consensus process, choose to specify a further Candidacy Period to be followed by a second decision by the members whether to accept the application. Upon acceptance of an application, the applicant shall immediately become a member.
 
 In the case of an application by a former member, the company may waive the Candidacy Period and accept back the former member immediately by the affirmative vote of all the members.
@@ -214,6 +216,7 @@ A member may for any lawful reason be expelled from the company by a
 ### G. Suspension or Expulsion of Worker-Owners
 
 **(*Should we break up suspension and expulsion??*)**
+
 No Worker-Owner may be suspended or expelled except according to procedures satisfying the requirements of this Section:
 
 #### 1. Worker-Owner Expulsion Rules
@@ -233,13 +236,17 @@ Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsio
     [ ] as determined by the personal improvement plan;
     [ ] something else entirely??
 
-2. **(*Wordy*)** *If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);*
+2. **(*Wordy*)**
+
+    *If a duly elected Director, failing to attend the majority of scheduled Board Meetings over the course of one calendar year. over the the over the course of a
+    given term of office, failing to attend more than one-half of the regularly scheduled Board Meetings. Shareholder or Board (if a Director) meetings (with “frequent” to be defined by the board);*
 
 3. Violating board-approved policies;
 
 4. Disclosing confidential or sensitive information about the Cooperative or its customers to unauthorized persons (with “confidential” and “sensitive” to be defined by the board);
 
     **(*We rejected this because it seems like none of the company's business*)**
+
     ~A new felony or serious misdemeanor conviction (with “serious” to be defined according to the judgment of the board);~
 
 5. *Being declared incapacitated by final order of a court;*
@@ -293,6 +300,7 @@ Notwithstanding anything herein to the contrary, cause for Worker-Owner expulsio
 *The voting power of the members shall be equal.*
 
 **(*We added this*)**
+
 Members are disqualified from voting on matters for which there is a conflict of interest. Matters directly pertaining to a member’s spouse/partner or close relative are considered to be de facto conflicts of interest; no member may vote on matters concerning their spouse/partner or close relative. Close relatives include: grandparents, parents, children, grandchildren, aunts, uncles, nieces, nephews, and first cousins, as well as any legal and/or common-law “in-law” variants of the above.
 
 Whenever members are disqualified from voting on any matter, they shall not be counted for the determination of a quorum or the required vote to approve an action.
@@ -308,16 +316,19 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 *An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.*
 
 **(*This is incomprehensible legal gibberish*)**
+
 *In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three). Any other proper business may be transacted at the meeting.*
 
 ### D. Special Meetings
 
 **(*More gibberish*)**
+
 *Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members. The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the company addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request.*
 
 ### E. Participation by Electronic Communications
 
 **(*Gibberish*)**
+
 *If authorized by the board of directors in its sole discretion, and subject to the consent of any members so participating, members not physically present in person at a meeting of members may, by electronic transmission by and to the corporation or by electronic video screen communication, participate in a meeting, be deemed present in person, and vote at a meeting of members, provided that the corporation implements measures to provide members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting concurrently with those proceedings, and a record of any vote or action of any members participating by electronic transmission is maintained by the corporation.*
 
 *Any request by the company to a member for consent to conduct a meeting of members by electronic transmission by and to the corporation shall include a notice that absent consent of the member, the meeting shall be held at a physical location.*
@@ -325,6 +336,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### F. Notice
 
 **(*Gibberish*)**
+
 *Whenever the members are required to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each member who, on the record date for notice of the meeting, is entitled to vote thereat; provided, however, that if notice is given by mail, and the notice is not mailed by first-class, registered, or certified mail, that notice shall be given not less than 20 days before the meeting.*
 
 *The notice shall state the place, date, and time of the meeting, the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate in that meeting, and (1) in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (2) in the case of the regular meeting, those matters which the board, at the time the notice is given, intends to present for action by the members. The notice of any meeting at which directors are to be elected shall include the names of all those who are nominees at the time the notice is given to members.*
@@ -349,6 +361,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### G. Waiver of Notice
 
 **(*Even more gibberish*)**
+
 *The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.*
 
 *Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting.*
@@ -358,11 +371,13 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### H. Adjourned Meetings
 
 **(*Gibberish continued*)**
+
 *When a members’ meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place thereof (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which members may participate) are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business which might have been transacted at the original meeting. If the adjournment is for more than 45 days or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to each member of record entitled to vote at the meeting.*
 
 ### I. Quorum
 
 **(*Gibberish Lite*)**
+
 *A majority of the members shall constitute a quorum at a meeting of members. If a quorum is present, the affirmative vote of the majority of the members entitled to vote shall be the act of the members unless the vote of a greater number is required by the articles or operating agreement.*
 
 *The members present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment notwithstanding the withdrawal of enough members to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the members required to constitute a quorum or, if required by the articles or the operating agreement, the vote of the greater number so required.*
@@ -372,6 +387,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### J. Record Date
 
 **(*Gibberish*)**
+
 *The board may fix, in advance, a date as the record date for the purpose of determining the members entitled to vote at a meeting of members. Such record date shall not be more than 60 days before the date of the meeting. Such record date shall also apply in the case of an adjournment of the meeting unless the board fixes a new record date for the adjourned meeting. If no record date is fixed, members on the day of the meeting who are otherwise eligible to vote are entitled to vote at the meeting of members or, in the case of an adjourned meeting, members on the day of the adjourned meeting who are otherwise eligible to vote are entitled to vote at the adjourned meeting of members.*
 
 ## ARTICLE VII: DIRECTORS
@@ -450,7 +466,7 @@ See Draft ByLaws.
 
 ## Appendix 1: Glossary
 
-1. [Capital Expenditure (CapEx)](https://www.investopedia.com/terms/c/capitalexpenditure.asp)refers to money spent to buy, upgrade, or maintain long-term assets. Examples of CapEx include the purchase or lease of property (e.g., land, buildings, warehouses), equipment (e.g., manufacturing machinery, vehicles, computers), technology (e.g., software, IT infrastructure), and intangibles (e.g., patents, licenses, trademarks). CapEx should achieve, or attempt to achieve, an increase in productivity or an increase in efficiency, and can include significant maintenance for the upkeep of existing infrastructure.
+1. [Capital Expenditure (CapEx)](https://www.investopedia.com/terms/c/capitalexpenditure.asp) refers to money spent to buy, upgrade, or maintain long-term assets. Examples of CapEx include the purchase or lease of property (e.g., land, buildings, warehouses), equipment (e.g., manufacturing machinery, vehicles, computers), technology (e.g., software, IT infrastructure), and intangibles (e.g., patents, licenses, trademarks). CapEx should achieve, or attempt to achieve, an increase in productivity or an increase in efficiency, and can include significant maintenance for the upkeep of existing infrastructure.
 
 2. [Operating Expenses (OpEx)](https://www.investopedia.com/ask/answers/040915/what-are-different-types-operating-expenses.asp) are the day-to-day costs the Cooperative incurs. OpEx includes rent, salaries, utilities, and marketing.
 
