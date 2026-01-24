@@ -297,9 +297,9 @@ The voting power of the members shall be equal.
 
 **(*We added this*)**
 
-    Members are disqualified from voting on matters for which there is a conflict of interest. Matters directly pertaining to a member’s spouse/partner or close relative are considered to be de facto conflicts of interest; no member may vote on matters concerning their spouse/partner or close relative. Close relatives include: grandparents, parents, children, grandchildren, aunts, uncles, nieces, nephews, and first cousins, as well as any legal and/or common-law “in-law” variants of the above.
+- Members are disqualified from voting on matters for which there is a conflict of interest. Matters directly pertaining to a member’s spouse/partner or close relative are considered to be de facto conflicts of interest; no member may vote on matters concerning their spouse/partner or close relative. Close relatives include: grandparents, parents, children, grandchildren, aunts, uncles, nieces, nephews, and first cousins, as well as any legal and/or common-law “in-law” variants of the above.
 
-    Whenever members are disqualified from voting on any matter, they shall not be counted for the determination of a quorum or the required vote to approve an action.
+- Whenever members are disqualified from voting on any matter, they shall not be counted for the determination of a quorum or the required vote to approve an action.
 
 *There shall be no voting by proxy.*
 
