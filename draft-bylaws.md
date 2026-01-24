@@ -338,11 +338,13 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 *An annual meeting of members shall be held on the first Thursday in November at 11:00 AM Eastern Standard Time over video call. If the day fixed for the annual meeting falls on a legal holiday, the meeting shall be held at the same time and place on the following business day.*
 
 **(*This is incomprehensible legal gibberish*)**
+
 *In the event that elections are required due to any change in the provision that the directors shall be the members, board elections shall be held at the annual meeting; in the absence of such change, the members shall vote to set the number of directors as equal to the number of members and elect all of the members to the board at each annual meeting (unless there are fewer than three members in which case the members shall elect the number of non-member directors required to bring the number of directors to three). Any other proper business may be transacted at the meeting.*
 
 ### D. Special Meetings
 
 **(*More gibberish*)**
+
 *Special meetings of members for any lawful purpose may be called by the board, the president, or by 5 percent or more of the members. The procedure for calling a special meeting shall be as follows: (1) when the board, the president, or 5 percent or more of the members decide to call a special meeting, he/she/they shall submit a request in writing to the company addressed to the attention of the president or secretary and (2) the officer that receives the request, within 20 days after receipt, shall cause notice to be given to the members entitled to vote that a meeting will be held at a time fixed by the board not less than 35 nor more than 90 days after the receipt of the request.*
 
 ### E. Participation by Electronic Communications
@@ -379,6 +381,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### G. Waiver of Notice
 
 **(*Even more gibberish*)**
+
 *The transactions of any meeting of members however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present, and if, either before or after the meeting, each of the persons entitled to vote, not present in person, provides a waiver of notice or consent to the holding of the meeting or an approval of the minutes thereof in writing. All such waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.*
 
 *Attendance of a person at a meeting shall constitute a waiver of notice of and presence at such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required to be included in the notice but not so included, if such objection is expressly made at the meeting.*
@@ -409,6 +412,7 @@ Whenever members are disqualified from voting on any matter, they shall not be c
 ### A. Directors and Board Composition
 
 **(*NOT gibberish ... but essentially useless given our small size*)**
+
 *All members of the corporation shall serve on the board of directors and no person other than the members of the corporation shall serve on the board of directors (except as provided in the following paragraph).*
 
 *The number of directors shall be not less than three or more than forty with the exact number of directors to be fixed, within the limits specified, by a vote of the members. If there are fewer than three members, the member(s) shall elect the minimum required number of directors to bring the total number of directors to three.*
