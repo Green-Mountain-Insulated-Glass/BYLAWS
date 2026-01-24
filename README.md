@@ -36,11 +36,11 @@
 
 [x] Get A.W. caught up by sending:
 
-    [x] ByLaws as they exist
+- [x] ByLaws as they exist
 
-    [x] everyone's email
+- [x] everyone's email
 
-    [x] identify the primary contact
+- [x] identify the primary contact
 
 ## GMIG CO-OP INC unratified ByLaws
 
