@@ -1,11 +1,11 @@
 # GMIG CO-OP INC
 
-## unratified BYLAWS
+## unratified ByLaws
 
 This is a **work in progress as of 1/22/2026**
 
 >
-> To current employees: Bring any and all thoughts on bylaws, hopes, concerns, questions, notions, etc. Bylaws have certain basic requirements but there is a lot of room for aspirations, creativity, kill switches, dead hands, flights of poetic ambition, hyper-specific weirdness, or just plain boring details. Or simplicity. But I know folks have longstanding concerns/visions that we should attempt to include. Likewise, there are unspoken cultural norms that take for granted but that we might want to specify (like the permissive PTO policy).
+> To current employees: Bring any and all thoughts on ByLaws, hopes, concerns, questions, notions, etc. Bylaws have certain basic requirements but there is a lot of room for aspirations, creativity, kill switches, dead hands, flights of poetic ambition, hyper-specific weirdness, or just plain boring details. Or simplicity. But I know folks have longstanding concerns/visions that we should attempt to include. Likewise, there are unspoken cultural norms that take for granted but that we might want to specify (like the permissive PTO policy).
 >
 
 <!-- Basic approach borrowed from CODE HOOK COOPERATIVE, LLC [^1]. -->
@@ -18,7 +18,7 @@ This is a **work in progress as of 1/22/2026**
 
 1. We need to forground the decision making progress.
 
-2. We need to ensure that the methods for changing the bylaws are clear and legal and obvious.
+2. We need to ensure that the methods for changing the ByLaws are clear and legal and obvious.
 
 3. Questions: how do we square the voting methods with quorum especially considering the small of the company now, e.g, if 4 members constitute a quorum with 6 members and a vote is taken, and the operating rules specify "unanimous-minus-one" and one member votes Nay and three members vote Yea, which satisfies the "unanimous-minus-one" rule, does that vote, which constitutes only 1/2 of the overall members, still count as a quorom?
 
@@ -28,21 +28,23 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
 
 ## Plan from 1/23/26 zoom meeting with AW
 
-1. Ask owners to clarify their April "deadline."
+[ ] Ask owners to clarify their April "deadline."
 
-2. Contact the Silva Group to discuss a re-valuation and/or,
+[ ] Contact the Silva Group to discuss a re-valuation and/or,
 
-3. Contact N.S. @ SBDC to discuss a re-valuation.
+[ ] Contact N.S. @ SBDC to discuss a re-valuation.
 
-4. Don't worry (yet) about a lawyer or about paying for anything (yet).
+[x] Don't worry (yet) about a lawyer or about paying for anything (yet).
 
-5. Do make a Business Plan.
+[ ] Do make a Business Plan.
 
-6. Standing schedule: Wednesday's @ 10:30 AM. Be sure to equip as many as possible with laptops/devices to better facilitate the virtual meeting.
+[x] Standing schedule: Wednesday's @ 10:30 AM.
 
-7. Get A.W. caught up by sending:
+[ ] Be sure to equip as many as possible with laptops/devices to better facilitate the virtual meeting.
 
-        [ ] bylaws as they exist
+[ ] Get A.W. caught up by sending:
+
+        [ ] ByLaws as they exist
         [ ] everyone's email
         [x] identify the primary contact
 
@@ -51,7 +53,7 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
 - [ARTICLE III: DEFINITIONS](#article-iii-definitions)
 - [ARTICLE IV: PROCESS OF DECISION MAKING](#article-iv-process-of-decision-making)
 - [ARTICLE V: MEMBERSHIP](#article-v-membership)
-- [ARTICLE V: MEMBERSHIP MEETINGS](#article-v-membership-meetings)
+- [ARTICLE VI: MEMBERSHIP MEETINGS](#article-vi-membership-meetings)
 - [ARTICLE VII: DIRECTORS](#article-vii-directors)
 - [ARTICLE VIII: ALLOCATIONS AND DISTRIBUTIONS](#article-viii-allocations-and-distributions)
 - [ARTICLE VIII: COMMITTEES](#article-viii-committees)
@@ -64,7 +66,20 @@ No yelling rule, a.k.a., cooldowns and the goal of resolving conflicts dispassio
 - [Appendix 2: Questions to Consider](#appendix-2-questions-to-consider)
 - [Appendix 3: Resources](#appendix-3-resources)
 
-## ARTICLE I: ARTICLES OF INCORPORATION
+## STATUS OF THIS DOCUMENT
+
+This document is a very rough draft. We intentionally sought reference outside of the ICA Model ByLaws because:
+
+1. The ICA Model ByLaws are probably out of date and,
+2. Even if they aren't out of date, they are the official recommendation which means whatever we produce will ineevitably bend toward them anyway so we should start somewehre else.
+
+About half of this document is a boilerplate placeholder designed to remind our future selves to not forget about such-and-such. For readers well versed and opinionated about ByLaws, these boilerplate sections are probably distressingly generic. Sorry about that, but to help differentiate the unexplored hinterlands of copy-paste boilerplate from meaty content, the boilerplate is ~struck through~.
+
+The other half is only partially revised. The parts that we haven't given sufficient attention to but probably should are *italicized*.
+
+None of us is willing to die on the hill of any part of these ByLaws because they are purely rough draft / initial thoughts. None of this has been voted on internally. All of it is subject to edits, rewording, revisions, excisions, expansion, etc.
+
+~## ARTICLE I: ARTICLES OF INCORPORATION
 
 The existing business is GREEN MOUNTAIN INSULATED GLASS INC.
 
@@ -182,7 +197,7 @@ To form a worker cooperative corporation, submit Articles of Incorporation, Arti
 
 In the event of dissolution, cooperatives often choose to distribute remaining assets to shareholders. Some cooperatives may distribute remaining assets to allied organizations.
 
-The articles of incorporation are hereby made a part of these bylaws. In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.
+The articles of incorporation are hereby made a part of these ByLaws. In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.~
 
 ## ARTICLE II: PURPOSE
 
@@ -194,7 +209,7 @@ The company is democratically controlled and is not organized to make a profit f
 
 ### B. Cooperative Purpose
 
-To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These bylaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
+To work cooperatively is to strike a balance between work that is profitable and enjoyable. The cooperative has achieved this balance when the business generates for its members real financial benefit and genuine gratification. The default mode of most businesses is to prioritize the collective financial profit of the company over the gratification of any individual worker. This worker cooperative reimagines the twin values of profit and gratification as neither mutually exclusive nor inherently hierarchical goals. Rather this worker cooperative will function as a dynamic business entity that can deftly navigate the turbulent events of changing market by balancing and incorporating worker gratification with the profit imperative. The cooperative must, therefore, champion its workers with as much vigor as it seeks to profit off their work and labor. When facing the unknowable challenges of the unwritten future, we recognize that twin goals of profit and joy can, should, and sometimes must fall out of balance for both to endure. These ByLaws are written, therefore, to advance this company’s cooperative effort to balance when necessary and synthesize where possible these twin ambitions of profit and joy.
 
 ## ARTICLE III: DEFINITIONS
 
@@ -257,7 +272,7 @@ If no motion to adopt a new rule regarding the voting process for accepting new 
   
 - Failure to pass the default motion establishes "The Default Rule" which shall be: the vote to accept new employee-owners must receive 75% approval from all members eligible to vote
   
-- "The Default Rule" can be changed only by modifying the bylaws.
+- "The Default Rule" can be changed only by modifying the ByLaws.
 
 ## ARTICLE V: MEMBERSHIP
 
@@ -396,7 +411,7 @@ This section concerns how to make changes that would materially affect the right
 
 #### Increase quorum for meetings
 
-## ARTICLE V: MEMBERSHIP MEETINGSs
+## ARTICLE VI: MEMBERSHIP MEETINGS
 
 This section addresses the details of annual general membership meetings.
 
@@ -707,7 +722,7 @@ Operating agreement may be adopted, amended, or repealed by approval of 75% of t
 
     This section often includes the cooperative’s mission statement, vision statement, or stated purpose. This is also a good place to restate the information outlined in the Articles of Incorporation.  The Bylaws should agree with the Articles, but you may wish to include this useful phrase:
 
-    “The articles of incorporation are hereby made a part of these bylaws.  In case of any inconsistency between the articles of incorporation and these bylaws, the provisions of the articles of incorporation are controlling.”
+    “The articles of incorporation are hereby made a part of these ByLaws.  In case of any inconsistency between the articles of incorporation and these ByLaws, the provisions of the articles of incorporation are controlling.”
 
 2. Membership
 
